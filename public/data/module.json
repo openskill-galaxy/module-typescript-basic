@@ -1,0 +1,41 @@
+{
+  "id": "mod-typescript-basic",
+  "slug": "module-typescript-basic",
+  "title": "TypeScript 基础与工程实践",
+  "subtitle": "面向ReactNode和工程化学习者",
+  "description": "面向前端ReactNode和工程化学习者的TypeScript类型系统接口联合类型泛型工具类型类型收窄tsconfigReact与项目实战训练静态学习模块。",
+  "version": "2.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "TypeScript",
+    "前端工程化",
+    "类型系统",
+    "泛型",
+    "React",
+    "Node",
+    "tsconfig",
+    "代码质量"
+  ],
+  "estimatedHours": 150,
+  "difficulty": "intermediate",
+  "updatedAt": "2026-07-02T12:00:00.000Z",
+  "coverEmoji": "🔷",
+  "repoUrl": "https://github.com/openskill-galaxy/module-typescript-basic",
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "status": "stable",
+  "stats": {
+    "courses": 14,
+    "lessons": 70,
+    "knowledgePoints": 716,
+    "questions": 3700,
+    "cases": 260,
+    "exams": 100,
+    "routes": 35,
+    "glossary": 360,
+    "faqs": 210,
+    "tags": 341
+  }
+}

@@ -1,0 +1,2522 @@
+[
+  {
+    "id": "ts-route-01",
+    "slug": "3天TS入门",
+    "title": "3天TS入门",
+    "description": "3天TS入门",
+    "summary": "3天TS入门",
+    "targetUser": "入门",
+    "durationDays": 3,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-3天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-3天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-3天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-3天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-3天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-02",
+    "slug": "7天类型系统",
+    "title": "7天类型系统",
+    "description": "7天类型系统",
+    "summary": "7天类型系统",
+    "targetUser": "类型",
+    "durationDays": 7,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-7天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-7天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-7天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-7天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-03",
+    "slug": "14天泛型精通",
+    "title": "14天泛型精通",
+    "description": "14天泛型精通",
+    "summary": "14天泛型精通",
+    "targetUser": "泛型",
+    "durationDays": 14,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-14天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-14天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-14天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-04",
+    "slug": "21天工具类型",
+    "title": "21天工具类型",
+    "description": "21天工具类型",
+    "summary": "21天工具类型",
+    "targetUser": "工具类型",
+    "durationDays": 21,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-21天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-21天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-05",
+    "slug": "30天TS项目",
+    "title": "30天TS项目",
+    "description": "30天TS项目",
+    "summary": "30天TS项目",
+    "targetUser": "项目",
+    "durationDays": 30,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-7天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-14天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-21天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-28天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-30天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-06",
+    "slug": "补路1",
+    "title": "补路1",
+    "description": "补路1",
+    "summary": "补路1",
+    "targetUser": "补1",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-07",
+    "slug": "补路2",
+    "title": "补路2",
+    "description": "补路2",
+    "summary": "补路2",
+    "targetUser": "补2",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-08",
+    "slug": "补路3",
+    "title": "补路3",
+    "description": "补路3",
+    "summary": "补路3",
+    "targetUser": "补3",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-09",
+    "slug": "补路4",
+    "title": "补路4",
+    "description": "补路4",
+    "summary": "补路4",
+    "targetUser": "补4",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-10",
+    "slug": "补路5",
+    "title": "补路5",
+    "description": "补路5",
+    "summary": "补路5",
+    "targetUser": "补5",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-11",
+    "slug": "补路6",
+    "title": "补路6",
+    "description": "补路6",
+    "summary": "补路6",
+    "targetUser": "补6",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-12",
+    "slug": "补路7",
+    "title": "补路7",
+    "description": "补路7",
+    "summary": "补路7",
+    "targetUser": "补7",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-13",
+    "slug": "补路8",
+    "title": "补路8",
+    "description": "补路8",
+    "summary": "补路8",
+    "targetUser": "补8",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-14",
+    "slug": "补路9",
+    "title": "补路9",
+    "description": "补路9",
+    "summary": "补路9",
+    "targetUser": "补9",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-15",
+    "slug": "补路10",
+    "title": "补路10",
+    "description": "补路10",
+    "summary": "补路10",
+    "targetUser": "补10",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-16",
+    "slug": "补路11",
+    "title": "补路11",
+    "description": "补路11",
+    "summary": "补路11",
+    "targetUser": "补11",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-17",
+    "slug": "补路12",
+    "title": "补路12",
+    "description": "补路12",
+    "summary": "补路12",
+    "targetUser": "补12",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-18",
+    "slug": "补路13",
+    "title": "补路13",
+    "description": "补路13",
+    "summary": "补路13",
+    "targetUser": "补13",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-19",
+    "slug": "补路14",
+    "title": "补路14",
+    "description": "补路14",
+    "summary": "补路14",
+    "targetUser": "补14",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-20",
+    "slug": "补路15",
+    "title": "补路15",
+    "description": "补路15",
+    "summary": "补路15",
+    "targetUser": "补15",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-21",
+    "slug": "补路16",
+    "title": "补路16",
+    "description": "补路16",
+    "summary": "补路16",
+    "targetUser": "补16",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-22",
+    "slug": "补路17",
+    "title": "补路17",
+    "description": "补路17",
+    "summary": "补路17",
+    "targetUser": "补17",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-23",
+    "slug": "补路18",
+    "title": "补路18",
+    "description": "补路18",
+    "summary": "补路18",
+    "targetUser": "补18",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-24",
+    "slug": "补路19",
+    "title": "补路19",
+    "description": "补路19",
+    "summary": "补路19",
+    "targetUser": "补19",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-25",
+    "slug": "补路20",
+    "title": "补路20",
+    "description": "补路20",
+    "summary": "补路20",
+    "targetUser": "补20",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-26",
+    "slug": "补路21",
+    "title": "补路21",
+    "description": "补路21",
+    "summary": "补路21",
+    "targetUser": "补21",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-27",
+    "slug": "补路22",
+    "title": "补路22",
+    "description": "补路22",
+    "summary": "补路22",
+    "targetUser": "补22",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-28",
+    "slug": "补路23",
+    "title": "补路23",
+    "description": "补路23",
+    "summary": "补路23",
+    "targetUser": "补23",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-29",
+    "slug": "补路24",
+    "title": "补路24",
+    "description": "补路24",
+    "summary": "补路24",
+    "targetUser": "补24",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-30",
+    "slug": "补路25",
+    "title": "补路25",
+    "description": "补路25",
+    "summary": "补路25",
+    "targetUser": "补25",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-31",
+    "slug": "补路26",
+    "title": "补路26",
+    "description": "补路26",
+    "summary": "补路26",
+    "targetUser": "补26",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-32",
+    "slug": "补路27",
+    "title": "补路27",
+    "description": "补路27",
+    "summary": "补路27",
+    "targetUser": "补27",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-33",
+    "slug": "补路28",
+    "title": "补路28",
+    "description": "补路28",
+    "summary": "补路28",
+    "targetUser": "补28",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-34",
+    "slug": "补路29",
+    "title": "补路29",
+    "description": "补路29",
+    "summary": "补路29",
+    "targetUser": "补29",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  },
+  {
+    "id": "ts-route-35",
+    "slug": "补路30",
+    "title": "补路30",
+    "description": "补路30",
+    "summary": "补路30",
+    "targetUser": "补30",
+    "durationDays": 5,
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1-5天",
+        "description": "学习TypeScript 入门与学习路线",
+        "courseId": "ts-course-01",
+        "lessonId": "ts-lesson-001"
+      },
+      {
+        "order": 2,
+        "title": "第8-5天",
+        "description": "学习类型系统与静态类型思想",
+        "courseId": "ts-course-02",
+        "lessonId": "ts-lesson-005"
+      },
+      {
+        "order": 3,
+        "title": "第15-5天",
+        "description": "学习基础类型与类型注解",
+        "courseId": "ts-course-03",
+        "lessonId": "ts-lesson-009"
+      },
+      {
+        "order": 4,
+        "title": "第22-5天",
+        "description": "学习联合类型、字面量类型与类型别名",
+        "courseId": "ts-course-04",
+        "lessonId": "ts-lesson-015"
+      },
+      {
+        "order": 5,
+        "title": "第29-5天",
+        "description": "学习接口 interface 与对象类型",
+        "courseId": "ts-course-05",
+        "lessonId": "ts-lesson-019"
+      }
+    ],
+    "recommendedCourseIds": [
+      "ts-course-01",
+      "ts-course-02",
+      "ts-course-03",
+      "ts-course-04",
+      "ts-course-05"
+    ],
+    "recommendedLessonIds": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004",
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008",
+      "ts-lesson-009",
+      "ts-lesson-010"
+    ],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "理解TS类型",
+      "熟练泛型",
+      "掌握工具类型",
+      "能写安全代码"
+    ]
+  }
+]

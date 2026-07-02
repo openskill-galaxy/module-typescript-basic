@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "ts-faq-001",
+    "question": "TypeScript和JavaScript什么关系？",
+    "answer": "TS是JS超集添加静态类型可编译为JS。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-002",
+    "question": "any和unknown什么区别？",
+    "answer": "any关闭检查unknown安全需收窄。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-003",
+    "question": "interface和type选哪个",
+    "answer": "interface可扩展type可联合优先用interface。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-004",
+    "question": "泛型有什么用",
+    "answer": "提高代码复用性同时保证类型安全。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-005",
+    "question": "工具类型有哪些",
+    "answer": "PartialPickOmitRecordReturnType等。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-006",
+    "question": "tsconfig必须配置什么",
+    "answer": "stricttargetmodule等核心选项。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-007",
+    "question": "类型守卫有哪些",
+    "answer": "typeofinstanceofin自定义守卫。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-008",
+    "question": "条件类型怎么用",
+    "answer": "T extends U ? X : Y根据条件选类型。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-009",
+    "question": "never类型什么场景用",
+    "answer": "永不为真的分支穷举检查等。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-010",
+    "question": "d.ts文件干嘛的",
+    "answer": "提供JS库的类型声明。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-011",
+    "question": "React+TS怎么写Props",
+    "answer": "interface定义Props传入组件。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-012",
+    "question": "TS面试常问",
+    "answer": "工具类型实现泛型约束条件类型infer。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-013",
+    "question": "TS问题13？",
+    "answer": "TS问题13解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-014",
+    "question": "TS问题14？",
+    "answer": "TS问题14解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-015",
+    "question": "TS问题15？",
+    "answer": "TS问题15解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-016",
+    "question": "TS问题16？",
+    "answer": "TS问题16解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-017",
+    "question": "TS问题17？",
+    "answer": "TS问题17解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-018",
+    "question": "TS问题18？",
+    "answer": "TS问题18解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-019",
+    "question": "TS问题19？",
+    "answer": "TS问题19解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-020",
+    "question": "TS问题20？",
+    "answer": "TS问题20解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-021",
+    "question": "TS问题21？",
+    "answer": "TS问题21解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-022",
+    "question": "TS问题22？",
+    "answer": "TS问题22解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-023",
+    "question": "TS问题23？",
+    "answer": "TS问题23解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-024",
+    "question": "TS问题24？",
+    "answer": "TS问题24解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-025",
+    "question": "TS问题25？",
+    "answer": "TS问题25解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-026",
+    "question": "TS问题26？",
+    "answer": "TS问题26解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-027",
+    "question": "TS问题27？",
+    "answer": "TS问题27解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-028",
+    "question": "TS问题28？",
+    "answer": "TS问题28解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-029",
+    "question": "TS问题29？",
+    "answer": "TS问题29解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-030",
+    "question": "TS问题30？",
+    "answer": "TS问题30解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-031",
+    "question": "TS问题31？",
+    "answer": "TS问题31解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-032",
+    "question": "TS问题32？",
+    "answer": "TS问题32解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-033",
+    "question": "TS问题33？",
+    "answer": "TS问题33解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-034",
+    "question": "TS问题34？",
+    "answer": "TS问题34解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-035",
+    "question": "TS问题35？",
+    "answer": "TS问题35解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-036",
+    "question": "TS问题36？",
+    "answer": "TS问题36解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-037",
+    "question": "TS问题37？",
+    "answer": "TS问题37解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-038",
+    "question": "TS问题38？",
+    "answer": "TS问题38解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-039",
+    "question": "TS问题39？",
+    "answer": "TS问题39解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-040",
+    "question": "TS问题40？",
+    "answer": "TS问题40解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-041",
+    "question": "TS问题41？",
+    "answer": "TS问题41解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-042",
+    "question": "TS问题42？",
+    "answer": "TS问题42解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-043",
+    "question": "TS问题43？",
+    "answer": "TS问题43解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-044",
+    "question": "TS问题44？",
+    "answer": "TS问题44解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-045",
+    "question": "TS问题45？",
+    "answer": "TS问题45解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-046",
+    "question": "TS问题46？",
+    "answer": "TS问题46解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-047",
+    "question": "TS问题47？",
+    "answer": "TS问题47解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-048",
+    "question": "TS问题48？",
+    "answer": "TS问题48解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-049",
+    "question": "TS问题49？",
+    "answer": "TS问题49解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-050",
+    "question": "TS问题50？",
+    "answer": "TS问题50解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-051",
+    "question": "TS问题51？",
+    "answer": "TS问题51解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-052",
+    "question": "TS问题52？",
+    "answer": "TS问题52解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-053",
+    "question": "TS问题53？",
+    "answer": "TS问题53解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-054",
+    "question": "TS问题54？",
+    "answer": "TS问题54解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-055",
+    "question": "TS问题55？",
+    "answer": "TS问题55解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-056",
+    "question": "TS问题56？",
+    "answer": "TS问题56解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-057",
+    "question": "TS问题57？",
+    "answer": "TS问题57解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-058",
+    "question": "TS问题58？",
+    "answer": "TS问题58解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-059",
+    "question": "TS问题59？",
+    "answer": "TS问题59解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-060",
+    "question": "TS问题60？",
+    "answer": "TS问题60解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-061",
+    "question": "TS问题61？",
+    "answer": "TS问题61解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-062",
+    "question": "TS问题62？",
+    "answer": "TS问题62解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-063",
+    "question": "TS问题63？",
+    "answer": "TS问题63解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-064",
+    "question": "TS问题64？",
+    "answer": "TS问题64解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-065",
+    "question": "TS问题65？",
+    "answer": "TS问题65解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-066",
+    "question": "TS问题66？",
+    "answer": "TS问题66解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-067",
+    "question": "TS问题67？",
+    "answer": "TS问题67解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-068",
+    "question": "TS问题68？",
+    "answer": "TS问题68解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-069",
+    "question": "TS问题69？",
+    "answer": "TS问题69解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-070",
+    "question": "TS问题70？",
+    "answer": "TS问题70解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-071",
+    "question": "TS问题71？",
+    "answer": "TS问题71解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-072",
+    "question": "TS问题72？",
+    "answer": "TS问题72解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-073",
+    "question": "TS问题73？",
+    "answer": "TS问题73解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-074",
+    "question": "TS问题74？",
+    "answer": "TS问题74解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-075",
+    "question": "TS问题75？",
+    "answer": "TS问题75解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-076",
+    "question": "TS问题76？",
+    "answer": "TS问题76解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-077",
+    "question": "TS问题77？",
+    "answer": "TS问题77解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-078",
+    "question": "TS问题78？",
+    "answer": "TS问题78解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-079",
+    "question": "TS问题79？",
+    "answer": "TS问题79解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-080",
+    "question": "TS问题80？",
+    "answer": "TS问题80解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-081",
+    "question": "TS问题81？",
+    "answer": "TS问题81解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-082",
+    "question": "TS问题82？",
+    "answer": "TS问题82解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-083",
+    "question": "TS问题83？",
+    "answer": "TS问题83解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-084",
+    "question": "TS问题84？",
+    "answer": "TS问题84解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-085",
+    "question": "TS问题85？",
+    "answer": "TS问题85解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-086",
+    "question": "TS问题86？",
+    "answer": "TS问题86解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-087",
+    "question": "TS问题87？",
+    "answer": "TS问题87解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-088",
+    "question": "TS问题88？",
+    "answer": "TS问题88解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-089",
+    "question": "TS问题89？",
+    "answer": "TS问题89解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-090",
+    "question": "TS问题90？",
+    "answer": "TS问题90解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-091",
+    "question": "TS问题91？",
+    "answer": "TS问题91解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-092",
+    "question": "TS问题92？",
+    "answer": "TS问题92解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-093",
+    "question": "TS问题93？",
+    "answer": "TS问题93解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-094",
+    "question": "TS问题94？",
+    "answer": "TS问题94解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-095",
+    "question": "TS问题95？",
+    "answer": "TS问题95解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-096",
+    "question": "TS问题96？",
+    "answer": "TS问题96解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-097",
+    "question": "TS问题97？",
+    "answer": "TS问题97解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-098",
+    "question": "TS问题98？",
+    "answer": "TS问题98解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-099",
+    "question": "TS问题99？",
+    "answer": "TS问题99解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-100",
+    "question": "TS问题100？",
+    "answer": "TS问题100解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-101",
+    "question": "TS问题101？",
+    "answer": "TS问题101解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-102",
+    "question": "TS问题102？",
+    "answer": "TS问题102解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-103",
+    "question": "TS问题103？",
+    "answer": "TS问题103解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-104",
+    "question": "TS问题104？",
+    "answer": "TS问题104解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-105",
+    "question": "TS问题105？",
+    "answer": "TS问题105解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-106",
+    "question": "TS问题106？",
+    "answer": "TS问题106解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-107",
+    "question": "TS问题107？",
+    "answer": "TS问题107解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-108",
+    "question": "TS问题108？",
+    "answer": "TS问题108解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-109",
+    "question": "TS问题109？",
+    "answer": "TS问题109解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-110",
+    "question": "TS问题110？",
+    "answer": "TS问题110解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-111",
+    "question": "TS问题111？",
+    "answer": "TS问题111解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-112",
+    "question": "TS问题112？",
+    "answer": "TS问题112解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-113",
+    "question": "TS问题113？",
+    "answer": "TS问题113解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-114",
+    "question": "TS问题114？",
+    "answer": "TS问题114解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-115",
+    "question": "TS问题115？",
+    "answer": "TS问题115解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-116",
+    "question": "TS问题116？",
+    "answer": "TS问题116解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-117",
+    "question": "TS问题117？",
+    "answer": "TS问题117解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-118",
+    "question": "TS问题118？",
+    "answer": "TS问题118解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-119",
+    "question": "TS问题119？",
+    "answer": "TS问题119解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-120",
+    "question": "TS问题120？",
+    "answer": "TS问题120解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-121",
+    "question": "TS问题121？",
+    "answer": "TS问题121解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-122",
+    "question": "TS问题122？",
+    "answer": "TS问题122解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-123",
+    "question": "TS问题123？",
+    "answer": "TS问题123解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-124",
+    "question": "TS问题124？",
+    "answer": "TS问题124解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-125",
+    "question": "TS问题125？",
+    "answer": "TS问题125解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-126",
+    "question": "TS问题126？",
+    "answer": "TS问题126解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-127",
+    "question": "TS问题127？",
+    "answer": "TS问题127解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-128",
+    "question": "TS问题128？",
+    "answer": "TS问题128解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-129",
+    "question": "TS问题129？",
+    "answer": "TS问题129解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-130",
+    "question": "TS问题130？",
+    "answer": "TS问题130解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-131",
+    "question": "TS问题131？",
+    "answer": "TS问题131解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-132",
+    "question": "TS问题132？",
+    "answer": "TS问题132解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-133",
+    "question": "TS问题133？",
+    "answer": "TS问题133解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-134",
+    "question": "TS问题134？",
+    "answer": "TS问题134解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-135",
+    "question": "TS问题135？",
+    "answer": "TS问题135解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-136",
+    "question": "TS问题136？",
+    "answer": "TS问题136解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-137",
+    "question": "TS问题137？",
+    "answer": "TS问题137解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-138",
+    "question": "TS问题138？",
+    "answer": "TS问题138解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-139",
+    "question": "TS问题139？",
+    "answer": "TS问题139解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-140",
+    "question": "TS问题140？",
+    "answer": "TS问题140解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-141",
+    "question": "TS问题141？",
+    "answer": "TS问题141解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-142",
+    "question": "TS问题142？",
+    "answer": "TS问题142解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-143",
+    "question": "TS问题143？",
+    "answer": "TS问题143解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-144",
+    "question": "TS问题144？",
+    "answer": "TS问题144解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-145",
+    "question": "TS问题145？",
+    "answer": "TS问题145解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-146",
+    "question": "TS问题146？",
+    "answer": "TS问题146解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-147",
+    "question": "TS问题147？",
+    "answer": "TS问题147解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-148",
+    "question": "TS问题148？",
+    "answer": "TS问题148解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-149",
+    "question": "TS问题149？",
+    "answer": "TS问题149解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-150",
+    "question": "TS问题150？",
+    "answer": "TS问题150解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-151",
+    "question": "TS问题151？",
+    "answer": "TS问题151解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-152",
+    "question": "TS问题152？",
+    "answer": "TS问题152解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-153",
+    "question": "TS问题153？",
+    "answer": "TS问题153解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-154",
+    "question": "TS问题154？",
+    "answer": "TS问题154解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-155",
+    "question": "TS问题155？",
+    "answer": "TS问题155解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-156",
+    "question": "TS问题156？",
+    "answer": "TS问题156解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-157",
+    "question": "TS问题157？",
+    "answer": "TS问题157解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-158",
+    "question": "TS问题158？",
+    "answer": "TS问题158解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-159",
+    "question": "TS问题159？",
+    "answer": "TS问题159解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-160",
+    "question": "TS问题160？",
+    "answer": "TS问题160解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-161",
+    "question": "TS问题161？",
+    "answer": "TS问题161解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-162",
+    "question": "TS问题162？",
+    "answer": "TS问题162解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-163",
+    "question": "TS问题163？",
+    "answer": "TS问题163解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-164",
+    "question": "TS问题164？",
+    "answer": "TS问题164解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-165",
+    "question": "TS问题165？",
+    "answer": "TS问题165解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-166",
+    "question": "TS问题166？",
+    "answer": "TS问题166解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-167",
+    "question": "TS问题167？",
+    "answer": "TS问题167解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-168",
+    "question": "TS问题168？",
+    "answer": "TS问题168解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-169",
+    "question": "TS问题169？",
+    "answer": "TS问题169解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-170",
+    "question": "TS问题170？",
+    "answer": "TS问题170解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-171",
+    "question": "TS问题171？",
+    "answer": "TS问题171解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-172",
+    "question": "TS问题172？",
+    "answer": "TS问题172解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-173",
+    "question": "TS问题173？",
+    "answer": "TS问题173解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-174",
+    "question": "TS问题174？",
+    "answer": "TS问题174解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-175",
+    "question": "TS问题175？",
+    "answer": "TS问题175解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-176",
+    "question": "TS问题176？",
+    "answer": "TS问题176解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-177",
+    "question": "TS问题177？",
+    "answer": "TS问题177解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-178",
+    "question": "TS问题178？",
+    "answer": "TS问题178解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-179",
+    "question": "TS问题179？",
+    "answer": "TS问题179解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-180",
+    "question": "TS问题180？",
+    "answer": "TS问题180解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-181",
+    "question": "TS问题181？",
+    "answer": "TS问题181解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-182",
+    "question": "TS问题182？",
+    "answer": "TS问题182解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-183",
+    "question": "TS问题183？",
+    "answer": "TS问题183解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-184",
+    "question": "TS问题184？",
+    "answer": "TS问题184解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-185",
+    "question": "TS问题185？",
+    "answer": "TS问题185解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-186",
+    "question": "TS问题186？",
+    "answer": "TS问题186解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-187",
+    "question": "TS问题187？",
+    "answer": "TS问题187解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-188",
+    "question": "TS问题188？",
+    "answer": "TS问题188解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-189",
+    "question": "TS问题189？",
+    "answer": "TS问题189解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-190",
+    "question": "TS问题190？",
+    "answer": "TS问题190解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-191",
+    "question": "TS问题191？",
+    "answer": "TS问题191解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-192",
+    "question": "TS问题192？",
+    "answer": "TS问题192解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-193",
+    "question": "TS问题193？",
+    "answer": "TS问题193解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-194",
+    "question": "TS问题194？",
+    "answer": "TS问题194解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-195",
+    "question": "TS问题195？",
+    "answer": "TS问题195解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-196",
+    "question": "TS问题196？",
+    "answer": "TS问题196解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-197",
+    "question": "TS问题197？",
+    "answer": "TS问题197解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-198",
+    "question": "TS问题198？",
+    "answer": "TS问题198解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-199",
+    "question": "TS问题199？",
+    "answer": "TS问题199解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-200",
+    "question": "TS问题200？",
+    "answer": "TS问题200解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-201",
+    "question": "TS问题201？",
+    "answer": "TS问题201解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-202",
+    "question": "TS问题202？",
+    "answer": "TS问题202解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-203",
+    "question": "TS问题203？",
+    "answer": "TS问题203解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-204",
+    "question": "TS问题204？",
+    "answer": "TS问题204解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-205",
+    "question": "TS问题205？",
+    "answer": "TS问题205解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-206",
+    "question": "TS问题206？",
+    "answer": "TS问题206解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-207",
+    "question": "TS问题207？",
+    "answer": "TS问题207解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-208",
+    "question": "TS问题208？",
+    "answer": "TS问题208解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-209",
+    "question": "TS问题209？",
+    "answer": "TS问题209解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-faq-210",
+    "question": "TS问题210？",
+    "answer": "TS问题210解答。",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]

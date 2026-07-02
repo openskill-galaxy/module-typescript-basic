@@ -1,0 +1,3602 @@
+[
+  {
+    "id": "ts-glossary-001",
+    "term": "TypeScript",
+    "definition": "JS超集添加类型",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-002",
+    "term": "类型注解",
+    "definition": "类型标记",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-003",
+    "term": "类型推断",
+    "definition": "自动推导",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-004",
+    "term": "any",
+    "definition": "任意类型",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-005",
+    "term": "unknown",
+    "definition": "安全任意",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-006",
+    "term": "never",
+    "definition": "永不值",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-007",
+    "term": "void",
+    "definition": "无返回值",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-008",
+    "term": "联合类型|",
+    "definition": "多种选择",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-009",
+    "term": "类型别名",
+    "definition": "类型别名type",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-010",
+    "term": "interface",
+    "definition": "对象接口",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-011",
+    "term": "泛型",
+    "definition": "参数化类型",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-012",
+    "term": "条件类型",
+    "definition": "条件选择",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-013",
+    "term": "keyof",
+    "definition": "获取键",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-014",
+    "term": "typeof",
+    "definition": "取值类型",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-015",
+    "term": "类型收窄",
+    "definition": "缩小范围",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-016",
+    "term": "类型守卫",
+    "definition": "类型检查",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-017",
+    "term": "枚举enum",
+    "definition": "常量的集合",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-018",
+    "term": "元组",
+    "definition": "固定数组",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-019",
+    "term": "class",
+    "definition": "类定义",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-020",
+    "term": "public",
+    "definition": "公开",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-021",
+    "term": "private",
+    "definition": "私有",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-022",
+    "term": "protected",
+    "definition": "受保护",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-023",
+    "term": "abstract",
+    "definition": "抽象类",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-024",
+    "term": "模块",
+    "definition": "代码组织",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-025",
+    "term": "声明文件",
+    "definition": "类型声明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-026",
+    "term": "tsconfig",
+    "definition": "配置文件",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-027",
+    "term": "strict",
+    "definition": "严格模式",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-028",
+    "term": "Partial",
+    "definition": "可选属性",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-029",
+    "term": "Pick",
+    "definition": "挑选属性",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-030",
+    "term": "Record",
+    "definition": "键值对",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-031",
+    "term": "TS概念31",
+    "definition": "TS概念31说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-032",
+    "term": "TS概念32",
+    "definition": "TS概念32说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-033",
+    "term": "TS概念33",
+    "definition": "TS概念33说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-034",
+    "term": "TS概念34",
+    "definition": "TS概念34说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-035",
+    "term": "TS概念35",
+    "definition": "TS概念35说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-036",
+    "term": "TS概念36",
+    "definition": "TS概念36说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-037",
+    "term": "TS概念37",
+    "definition": "TS概念37说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-038",
+    "term": "TS概念38",
+    "definition": "TS概念38说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-039",
+    "term": "TS概念39",
+    "definition": "TS概念39说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-040",
+    "term": "TS概念40",
+    "definition": "TS概念40说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-041",
+    "term": "TS概念41",
+    "definition": "TS概念41说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-042",
+    "term": "TS概念42",
+    "definition": "TS概念42说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-043",
+    "term": "TS概念43",
+    "definition": "TS概念43说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-044",
+    "term": "TS概念44",
+    "definition": "TS概念44说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-045",
+    "term": "TS概念45",
+    "definition": "TS概念45说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-046",
+    "term": "TS概念46",
+    "definition": "TS概念46说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-047",
+    "term": "TS概念47",
+    "definition": "TS概念47说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-048",
+    "term": "TS概念48",
+    "definition": "TS概念48说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-049",
+    "term": "TS概念49",
+    "definition": "TS概念49说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-050",
+    "term": "TS概念50",
+    "definition": "TS概念50说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-051",
+    "term": "TS概念51",
+    "definition": "TS概念51说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-052",
+    "term": "TS概念52",
+    "definition": "TS概念52说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-053",
+    "term": "TS概念53",
+    "definition": "TS概念53说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-054",
+    "term": "TS概念54",
+    "definition": "TS概念54说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-055",
+    "term": "TS概念55",
+    "definition": "TS概念55说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-056",
+    "term": "TS概念56",
+    "definition": "TS概念56说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-057",
+    "term": "TS概念57",
+    "definition": "TS概念57说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-058",
+    "term": "TS概念58",
+    "definition": "TS概念58说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-059",
+    "term": "TS概念59",
+    "definition": "TS概念59说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-060",
+    "term": "TS概念60",
+    "definition": "TS概念60说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-061",
+    "term": "TS概念61",
+    "definition": "TS概念61说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-062",
+    "term": "TS概念62",
+    "definition": "TS概念62说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-063",
+    "term": "TS概念63",
+    "definition": "TS概念63说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-064",
+    "term": "TS概念64",
+    "definition": "TS概念64说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-065",
+    "term": "TS概念65",
+    "definition": "TS概念65说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-066",
+    "term": "TS概念66",
+    "definition": "TS概念66说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-067",
+    "term": "TS概念67",
+    "definition": "TS概念67说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-068",
+    "term": "TS概念68",
+    "definition": "TS概念68说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-069",
+    "term": "TS概念69",
+    "definition": "TS概念69说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-070",
+    "term": "TS概念70",
+    "definition": "TS概念70说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-071",
+    "term": "TS概念71",
+    "definition": "TS概念71说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-072",
+    "term": "TS概念72",
+    "definition": "TS概念72说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-073",
+    "term": "TS概念73",
+    "definition": "TS概念73说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-074",
+    "term": "TS概念74",
+    "definition": "TS概念74说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-075",
+    "term": "TS概念75",
+    "definition": "TS概念75说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-076",
+    "term": "TS概念76",
+    "definition": "TS概念76说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-077",
+    "term": "TS概念77",
+    "definition": "TS概念77说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-078",
+    "term": "TS概念78",
+    "definition": "TS概念78说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-079",
+    "term": "TS概念79",
+    "definition": "TS概念79说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-080",
+    "term": "TS概念80",
+    "definition": "TS概念80说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-081",
+    "term": "TS概念81",
+    "definition": "TS概念81说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-082",
+    "term": "TS概念82",
+    "definition": "TS概念82说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-083",
+    "term": "TS概念83",
+    "definition": "TS概念83说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-084",
+    "term": "TS概念84",
+    "definition": "TS概念84说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-085",
+    "term": "TS概念85",
+    "definition": "TS概念85说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-086",
+    "term": "TS概念86",
+    "definition": "TS概念86说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-087",
+    "term": "TS概念87",
+    "definition": "TS概念87说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-088",
+    "term": "TS概念88",
+    "definition": "TS概念88说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-089",
+    "term": "TS概念89",
+    "definition": "TS概念89说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-090",
+    "term": "TS概念90",
+    "definition": "TS概念90说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-091",
+    "term": "TS概念91",
+    "definition": "TS概念91说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-092",
+    "term": "TS概念92",
+    "definition": "TS概念92说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-093",
+    "term": "TS概念93",
+    "definition": "TS概念93说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-094",
+    "term": "TS概念94",
+    "definition": "TS概念94说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-095",
+    "term": "TS概念95",
+    "definition": "TS概念95说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-096",
+    "term": "TS概念96",
+    "definition": "TS概念96说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-097",
+    "term": "TS概念97",
+    "definition": "TS概念97说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-098",
+    "term": "TS概念98",
+    "definition": "TS概念98说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-099",
+    "term": "TS概念99",
+    "definition": "TS概念99说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-100",
+    "term": "TS概念100",
+    "definition": "TS概念100说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-101",
+    "term": "TS概念101",
+    "definition": "TS概念101说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-102",
+    "term": "TS概念102",
+    "definition": "TS概念102说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-103",
+    "term": "TS概念103",
+    "definition": "TS概念103说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-104",
+    "term": "TS概念104",
+    "definition": "TS概念104说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-105",
+    "term": "TS概念105",
+    "definition": "TS概念105说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-106",
+    "term": "TS概念106",
+    "definition": "TS概念106说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-107",
+    "term": "TS概念107",
+    "definition": "TS概念107说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-108",
+    "term": "TS概念108",
+    "definition": "TS概念108说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-109",
+    "term": "TS概念109",
+    "definition": "TS概念109说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-110",
+    "term": "TS概念110",
+    "definition": "TS概念110说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-111",
+    "term": "TS概念111",
+    "definition": "TS概念111说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-112",
+    "term": "TS概念112",
+    "definition": "TS概念112说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-113",
+    "term": "TS概念113",
+    "definition": "TS概念113说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-114",
+    "term": "TS概念114",
+    "definition": "TS概念114说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-115",
+    "term": "TS概念115",
+    "definition": "TS概念115说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-116",
+    "term": "TS概念116",
+    "definition": "TS概念116说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-117",
+    "term": "TS概念117",
+    "definition": "TS概念117说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-118",
+    "term": "TS概念118",
+    "definition": "TS概念118说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-119",
+    "term": "TS概念119",
+    "definition": "TS概念119说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-120",
+    "term": "TS概念120",
+    "definition": "TS概念120说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-121",
+    "term": "TS概念121",
+    "definition": "TS概念121说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-122",
+    "term": "TS概念122",
+    "definition": "TS概念122说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-123",
+    "term": "TS概念123",
+    "definition": "TS概念123说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-124",
+    "term": "TS概念124",
+    "definition": "TS概念124说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-125",
+    "term": "TS概念125",
+    "definition": "TS概念125说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-126",
+    "term": "TS概念126",
+    "definition": "TS概念126说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-127",
+    "term": "TS概念127",
+    "definition": "TS概念127说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-128",
+    "term": "TS概念128",
+    "definition": "TS概念128说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-129",
+    "term": "TS概念129",
+    "definition": "TS概念129说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-130",
+    "term": "TS概念130",
+    "definition": "TS概念130说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-131",
+    "term": "TS概念131",
+    "definition": "TS概念131说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-132",
+    "term": "TS概念132",
+    "definition": "TS概念132说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-133",
+    "term": "TS概念133",
+    "definition": "TS概念133说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-134",
+    "term": "TS概念134",
+    "definition": "TS概念134说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-135",
+    "term": "TS概念135",
+    "definition": "TS概念135说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-136",
+    "term": "TS概念136",
+    "definition": "TS概念136说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-137",
+    "term": "TS概念137",
+    "definition": "TS概念137说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-138",
+    "term": "TS概念138",
+    "definition": "TS概念138说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-139",
+    "term": "TS概念139",
+    "definition": "TS概念139说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-140",
+    "term": "TS概念140",
+    "definition": "TS概念140说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-141",
+    "term": "TS概念141",
+    "definition": "TS概念141说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-142",
+    "term": "TS概念142",
+    "definition": "TS概念142说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-143",
+    "term": "TS概念143",
+    "definition": "TS概念143说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-144",
+    "term": "TS概念144",
+    "definition": "TS概念144说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-145",
+    "term": "TS概念145",
+    "definition": "TS概念145说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-146",
+    "term": "TS概念146",
+    "definition": "TS概念146说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-147",
+    "term": "TS概念147",
+    "definition": "TS概念147说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-148",
+    "term": "TS概念148",
+    "definition": "TS概念148说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-149",
+    "term": "TS概念149",
+    "definition": "TS概念149说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-150",
+    "term": "TS概念150",
+    "definition": "TS概念150说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-151",
+    "term": "TS概念151",
+    "definition": "TS概念151说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-152",
+    "term": "TS概念152",
+    "definition": "TS概念152说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-153",
+    "term": "TS概念153",
+    "definition": "TS概念153说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-154",
+    "term": "TS概念154",
+    "definition": "TS概念154说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-155",
+    "term": "TS概念155",
+    "definition": "TS概念155说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-156",
+    "term": "TS概念156",
+    "definition": "TS概念156说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-157",
+    "term": "TS概念157",
+    "definition": "TS概念157说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-158",
+    "term": "TS概念158",
+    "definition": "TS概念158说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-159",
+    "term": "TS概念159",
+    "definition": "TS概念159说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-160",
+    "term": "TS概念160",
+    "definition": "TS概念160说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-161",
+    "term": "TS概念161",
+    "definition": "TS概念161说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-162",
+    "term": "TS概念162",
+    "definition": "TS概念162说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-163",
+    "term": "TS概念163",
+    "definition": "TS概念163说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-164",
+    "term": "TS概念164",
+    "definition": "TS概念164说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-165",
+    "term": "TS概念165",
+    "definition": "TS概念165说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-166",
+    "term": "TS概念166",
+    "definition": "TS概念166说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-167",
+    "term": "TS概念167",
+    "definition": "TS概念167说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-168",
+    "term": "TS概念168",
+    "definition": "TS概念168说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-169",
+    "term": "TS概念169",
+    "definition": "TS概念169说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-170",
+    "term": "TS概念170",
+    "definition": "TS概念170说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-171",
+    "term": "TS概念171",
+    "definition": "TS概念171说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-172",
+    "term": "TS概念172",
+    "definition": "TS概念172说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-173",
+    "term": "TS概念173",
+    "definition": "TS概念173说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-174",
+    "term": "TS概念174",
+    "definition": "TS概念174说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-175",
+    "term": "TS概念175",
+    "definition": "TS概念175说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-176",
+    "term": "TS概念176",
+    "definition": "TS概念176说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-177",
+    "term": "TS概念177",
+    "definition": "TS概念177说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-178",
+    "term": "TS概念178",
+    "definition": "TS概念178说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-179",
+    "term": "TS概念179",
+    "definition": "TS概念179说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-180",
+    "term": "TS概念180",
+    "definition": "TS概念180说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-181",
+    "term": "TS概念181",
+    "definition": "TS概念181说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-182",
+    "term": "TS概念182",
+    "definition": "TS概念182说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-183",
+    "term": "TS概念183",
+    "definition": "TS概念183说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-184",
+    "term": "TS概念184",
+    "definition": "TS概念184说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-185",
+    "term": "TS概念185",
+    "definition": "TS概念185说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-186",
+    "term": "TS概念186",
+    "definition": "TS概念186说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-187",
+    "term": "TS概念187",
+    "definition": "TS概念187说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-188",
+    "term": "TS概念188",
+    "definition": "TS概念188说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-189",
+    "term": "TS概念189",
+    "definition": "TS概念189说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-190",
+    "term": "TS概念190",
+    "definition": "TS概念190说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-191",
+    "term": "TS概念191",
+    "definition": "TS概念191说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-192",
+    "term": "TS概念192",
+    "definition": "TS概念192说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-193",
+    "term": "TS概念193",
+    "definition": "TS概念193说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-194",
+    "term": "TS概念194",
+    "definition": "TS概念194说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-195",
+    "term": "TS概念195",
+    "definition": "TS概念195说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-196",
+    "term": "TS概念196",
+    "definition": "TS概念196说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-197",
+    "term": "TS概念197",
+    "definition": "TS概念197说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-198",
+    "term": "TS概念198",
+    "definition": "TS概念198说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-199",
+    "term": "TS概念199",
+    "definition": "TS概念199说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-200",
+    "term": "TS概念200",
+    "definition": "TS概念200说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-201",
+    "term": "TS概念201",
+    "definition": "TS概念201说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-202",
+    "term": "TS概念202",
+    "definition": "TS概念202说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-203",
+    "term": "TS概念203",
+    "definition": "TS概念203说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-204",
+    "term": "TS概念204",
+    "definition": "TS概念204说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-205",
+    "term": "TS概念205",
+    "definition": "TS概念205说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-206",
+    "term": "TS概念206",
+    "definition": "TS概念206说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-207",
+    "term": "TS概念207",
+    "definition": "TS概念207说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-208",
+    "term": "TS概念208",
+    "definition": "TS概念208说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-209",
+    "term": "TS概念209",
+    "definition": "TS概念209说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-210",
+    "term": "TS概念210",
+    "definition": "TS概念210说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-211",
+    "term": "TS概念211",
+    "definition": "TS概念211说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-212",
+    "term": "TS概念212",
+    "definition": "TS概念212说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-213",
+    "term": "TS概念213",
+    "definition": "TS概念213说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-214",
+    "term": "TS概念214",
+    "definition": "TS概念214说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-215",
+    "term": "TS概念215",
+    "definition": "TS概念215说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-216",
+    "term": "TS概念216",
+    "definition": "TS概念216说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-217",
+    "term": "TS概念217",
+    "definition": "TS概念217说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-218",
+    "term": "TS概念218",
+    "definition": "TS概念218说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-219",
+    "term": "TS概念219",
+    "definition": "TS概念219说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-220",
+    "term": "TS概念220",
+    "definition": "TS概念220说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-221",
+    "term": "TS概念221",
+    "definition": "TS概念221说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-222",
+    "term": "TS概念222",
+    "definition": "TS概念222说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-223",
+    "term": "TS概念223",
+    "definition": "TS概念223说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-224",
+    "term": "TS概念224",
+    "definition": "TS概念224说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-225",
+    "term": "TS概念225",
+    "definition": "TS概念225说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-226",
+    "term": "TS概念226",
+    "definition": "TS概念226说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-227",
+    "term": "TS概念227",
+    "definition": "TS概念227说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-228",
+    "term": "TS概念228",
+    "definition": "TS概念228说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-229",
+    "term": "TS概念229",
+    "definition": "TS概念229说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-230",
+    "term": "TS概念230",
+    "definition": "TS概念230说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-231",
+    "term": "TS概念231",
+    "definition": "TS概念231说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-232",
+    "term": "TS概念232",
+    "definition": "TS概念232说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-233",
+    "term": "TS概念233",
+    "definition": "TS概念233说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-234",
+    "term": "TS概念234",
+    "definition": "TS概念234说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-235",
+    "term": "TS概念235",
+    "definition": "TS概念235说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-236",
+    "term": "TS概念236",
+    "definition": "TS概念236说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-237",
+    "term": "TS概念237",
+    "definition": "TS概念237说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-238",
+    "term": "TS概念238",
+    "definition": "TS概念238说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-239",
+    "term": "TS概念239",
+    "definition": "TS概念239说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-240",
+    "term": "TS概念240",
+    "definition": "TS概念240说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-241",
+    "term": "TS概念241",
+    "definition": "TS概念241说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-242",
+    "term": "TS概念242",
+    "definition": "TS概念242说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-243",
+    "term": "TS概念243",
+    "definition": "TS概念243说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-244",
+    "term": "TS概念244",
+    "definition": "TS概念244说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-245",
+    "term": "TS概念245",
+    "definition": "TS概念245说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-246",
+    "term": "TS概念246",
+    "definition": "TS概念246说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-247",
+    "term": "TS概念247",
+    "definition": "TS概念247说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-248",
+    "term": "TS概念248",
+    "definition": "TS概念248说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-249",
+    "term": "TS概念249",
+    "definition": "TS概念249说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-250",
+    "term": "TS概念250",
+    "definition": "TS概念250说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-251",
+    "term": "TS概念251",
+    "definition": "TS概念251说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-252",
+    "term": "TS概念252",
+    "definition": "TS概念252说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-253",
+    "term": "TS概念253",
+    "definition": "TS概念253说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-254",
+    "term": "TS概念254",
+    "definition": "TS概念254说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-255",
+    "term": "TS概念255",
+    "definition": "TS概念255说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-256",
+    "term": "TS概念256",
+    "definition": "TS概念256说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-257",
+    "term": "TS概念257",
+    "definition": "TS概念257说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-258",
+    "term": "TS概念258",
+    "definition": "TS概念258说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-259",
+    "term": "TS概念259",
+    "definition": "TS概念259说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-260",
+    "term": "TS概念260",
+    "definition": "TS概念260说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-261",
+    "term": "TS概念261",
+    "definition": "TS概念261说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-262",
+    "term": "TS概念262",
+    "definition": "TS概念262说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-263",
+    "term": "TS概念263",
+    "definition": "TS概念263说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-264",
+    "term": "TS概念264",
+    "definition": "TS概念264说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-265",
+    "term": "TS概念265",
+    "definition": "TS概念265说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-266",
+    "term": "TS概念266",
+    "definition": "TS概念266说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-267",
+    "term": "TS概念267",
+    "definition": "TS概念267说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-268",
+    "term": "TS概念268",
+    "definition": "TS概念268说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-269",
+    "term": "TS概念269",
+    "definition": "TS概念269说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-270",
+    "term": "TS概念270",
+    "definition": "TS概念270说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-271",
+    "term": "TS概念271",
+    "definition": "TS概念271说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-272",
+    "term": "TS概念272",
+    "definition": "TS概念272说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-273",
+    "term": "TS概念273",
+    "definition": "TS概念273说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-274",
+    "term": "TS概念274",
+    "definition": "TS概念274说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-275",
+    "term": "TS概念275",
+    "definition": "TS概念275说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-276",
+    "term": "TS概念276",
+    "definition": "TS概念276说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-277",
+    "term": "TS概念277",
+    "definition": "TS概念277说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-278",
+    "term": "TS概念278",
+    "definition": "TS概念278说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-279",
+    "term": "TS概念279",
+    "definition": "TS概念279说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-280",
+    "term": "TS概念280",
+    "definition": "TS概念280说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-281",
+    "term": "TS概念281",
+    "definition": "TS概念281说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-282",
+    "term": "TS概念282",
+    "definition": "TS概念282说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-283",
+    "term": "TS概念283",
+    "definition": "TS概念283说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-284",
+    "term": "TS概念284",
+    "definition": "TS概念284说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-285",
+    "term": "TS概念285",
+    "definition": "TS概念285说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-286",
+    "term": "TS概念286",
+    "definition": "TS概念286说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-287",
+    "term": "TS概念287",
+    "definition": "TS概念287说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-288",
+    "term": "TS概念288",
+    "definition": "TS概念288说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-289",
+    "term": "TS概念289",
+    "definition": "TS概念289说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-290",
+    "term": "TS概念290",
+    "definition": "TS概念290说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-291",
+    "term": "TS概念291",
+    "definition": "TS概念291说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-292",
+    "term": "TS概念292",
+    "definition": "TS概念292说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-293",
+    "term": "TS概念293",
+    "definition": "TS概念293说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-294",
+    "term": "TS概念294",
+    "definition": "TS概念294说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-295",
+    "term": "TS概念295",
+    "definition": "TS概念295说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-296",
+    "term": "TS概念296",
+    "definition": "TS概念296说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-297",
+    "term": "TS概念297",
+    "definition": "TS概念297说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-298",
+    "term": "TS概念298",
+    "definition": "TS概念298说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-299",
+    "term": "TS概念299",
+    "definition": "TS概念299说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-300",
+    "term": "TS概念300",
+    "definition": "TS概念300说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-301",
+    "term": "TS概念301",
+    "definition": "TS概念301说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-302",
+    "term": "TS概念302",
+    "definition": "TS概念302说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-303",
+    "term": "TS概念303",
+    "definition": "TS概念303说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-304",
+    "term": "TS概念304",
+    "definition": "TS概念304说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-305",
+    "term": "TS概念305",
+    "definition": "TS概念305说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-306",
+    "term": "TS概念306",
+    "definition": "TS概念306说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-307",
+    "term": "TS概念307",
+    "definition": "TS概念307说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-308",
+    "term": "TS概念308",
+    "definition": "TS概念308说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-309",
+    "term": "TS概念309",
+    "definition": "TS概念309说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-310",
+    "term": "TS概念310",
+    "definition": "TS概念310说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-311",
+    "term": "TS概念311",
+    "definition": "TS概念311说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-312",
+    "term": "TS概念312",
+    "definition": "TS概念312说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-313",
+    "term": "TS概念313",
+    "definition": "TS概念313说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-314",
+    "term": "TS概念314",
+    "definition": "TS概念314说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-315",
+    "term": "TS概念315",
+    "definition": "TS概念315说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-316",
+    "term": "TS概念316",
+    "definition": "TS概念316说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-317",
+    "term": "TS概念317",
+    "definition": "TS概念317说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-318",
+    "term": "TS概念318",
+    "definition": "TS概念318说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-319",
+    "term": "TS概念319",
+    "definition": "TS概念319说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-320",
+    "term": "TS概念320",
+    "definition": "TS概念320说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-321",
+    "term": "TS概念321",
+    "definition": "TS概念321说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-322",
+    "term": "TS概念322",
+    "definition": "TS概念322说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-323",
+    "term": "TS概念323",
+    "definition": "TS概念323说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-324",
+    "term": "TS概念324",
+    "definition": "TS概念324说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-325",
+    "term": "TS概念325",
+    "definition": "TS概念325说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-326",
+    "term": "TS概念326",
+    "definition": "TS概念326说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-327",
+    "term": "TS概念327",
+    "definition": "TS概念327说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-328",
+    "term": "TS概念328",
+    "definition": "TS概念328说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-329",
+    "term": "TS概念329",
+    "definition": "TS概念329说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-330",
+    "term": "TS概念330",
+    "definition": "TS概念330说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-331",
+    "term": "TS概念331",
+    "definition": "TS概念331说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-332",
+    "term": "TS概念332",
+    "definition": "TS概念332说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-333",
+    "term": "TS概念333",
+    "definition": "TS概念333说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-334",
+    "term": "TS概念334",
+    "definition": "TS概念334说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-335",
+    "term": "TS概念335",
+    "definition": "TS概念335说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-336",
+    "term": "TS概念336",
+    "definition": "TS概念336说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-337",
+    "term": "TS概念337",
+    "definition": "TS概念337说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-338",
+    "term": "TS概念338",
+    "definition": "TS概念338说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-339",
+    "term": "TS概念339",
+    "definition": "TS概念339说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-340",
+    "term": "TS概念340",
+    "definition": "TS概念340说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-341",
+    "term": "TS概念341",
+    "definition": "TS概念341说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-342",
+    "term": "TS概念342",
+    "definition": "TS概念342说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-343",
+    "term": "TS概念343",
+    "definition": "TS概念343说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-344",
+    "term": "TS概念344",
+    "definition": "TS概念344说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-345",
+    "term": "TS概念345",
+    "definition": "TS概念345说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-346",
+    "term": "TS概念346",
+    "definition": "TS概念346说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-347",
+    "term": "TS概念347",
+    "definition": "TS概念347说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-348",
+    "term": "TS概念348",
+    "definition": "TS概念348说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-349",
+    "term": "TS概念349",
+    "definition": "TS概念349说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-350",
+    "term": "TS概念350",
+    "definition": "TS概念350说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-351",
+    "term": "TS概念351",
+    "definition": "TS概念351说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-352",
+    "term": "TS概念352",
+    "definition": "TS概念352说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-353",
+    "term": "TS概念353",
+    "definition": "TS概念353说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-354",
+    "term": "TS概念354",
+    "definition": "TS概念354说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-355",
+    "term": "TS概念355",
+    "definition": "TS概念355说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-356",
+    "term": "TS概念356",
+    "definition": "TS概念356说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-357",
+    "term": "TS概念357",
+    "definition": "TS概念357说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-358",
+    "term": "TS概念358",
+    "definition": "TS概念358说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-359",
+    "term": "TS概念359",
+    "definition": "TS概念359说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  },
+  {
+    "id": "ts-glossary-360",
+    "term": "TS概念360",
+    "definition": "TS概念360说明",
+    "category": "TypeScript",
+    "tags": [
+      "TypeScript"
+    ],
+    "updatedAt": "2026-07-02T00:00:00.000Z"
+  }
+]
