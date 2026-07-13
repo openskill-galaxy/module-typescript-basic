@@ -18,7 +18,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# TS简介与特性\n\n## 概述\nTS简介与特性是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握TS简介与特性能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-001"
+    ]
   },
   {
     "id": "ts-lesson-002",
@@ -39,7 +43,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# TS与JS关系\n\n## 概述\nTS与JS关系是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握TS与JS关系能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-002"
+    ]
   },
   {
     "id": "ts-lesson-003",
@@ -60,7 +68,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 开发环境搭建\n\n## 概述\n开发环境搭建是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握开发环境搭建能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-003"
+    ]
   },
   {
     "id": "ts-lesson-004",
@@ -81,7 +93,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 学习路线\n\n## 概述\n学习路线是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握学习路线能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-004"
+    ]
   },
   {
     "id": "ts-lesson-005",
@@ -102,7 +118,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 静态类型优势\n\n## 概述\n静态类型优势是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握静态类型优势能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-005"
+    ]
   },
   {
     "id": "ts-lesson-006",
@@ -123,7 +143,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类型检查\n\n## 概述\n类型检查是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握类型检查能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-006"
+    ]
   },
   {
     "id": "ts-lesson-007",
@@ -145,7 +169,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类型推断\n\n## 概述\n类型推断是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握类型推断能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-007",
+      "ts-kp-008"
+    ]
   },
   {
     "id": "ts-lesson-008",
@@ -166,7 +195,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类型系统分类\n\n## 概述\n类型系统分类是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握类型系统分类能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-009"
+    ]
   },
   {
     "id": "ts-lesson-009",
@@ -187,7 +220,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 基础类型\n\n## 概述\n基础类型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握基础类型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-010"
+    ]
   },
   {
     "id": "ts-lesson-010",
@@ -209,7 +246,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# any与unknown\n\n## 概述\nany与unknown是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握any与unknown能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-011",
+      "ts-kp-012"
+    ]
   },
   {
     "id": "ts-lesson-011",
@@ -230,7 +272,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# void与never\n\n## 概述\nvoid与never是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握void与never能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-013"
+    ]
   },
   {
     "id": "ts-lesson-012",
@@ -251,7 +297,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 变量注解\n\n## 概述\n变量注解是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握变量注解能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-014"
+    ]
   },
   {
     "id": "ts-lesson-013",
@@ -272,7 +322,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数参数返回\n\n## 概述\n函数参数返回是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握函数参数返回能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-015"
+    ]
   },
   {
     "id": "ts-lesson-014",
@@ -293,7 +347,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# null与undefined\n\n## 概述\nnull与undefined是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握null与undefined能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-016"
+    ]
   },
   {
     "id": "ts-lesson-015",
@@ -315,7 +373,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 联合类型\n\n## 概述\n联合类型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握联合类型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-017",
+      "ts-kp-018"
+    ]
   },
   {
     "id": "ts-lesson-016",
@@ -336,7 +399,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 字面量类型\n\n## 概述\n字面量类型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握字面量类型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-019"
+    ]
   },
   {
     "id": "ts-lesson-017",
@@ -357,7 +424,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类型别名\n\n## 概述\n类型别名是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握类型别名能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-020"
+    ]
   },
   {
     "id": "ts-lesson-018",
@@ -378,7 +449,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 交集类型\n\n## 概述\n交集类型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握交集类型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-021"
+    ]
   },
   {
     "id": "ts-lesson-019",
@@ -400,7 +475,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# interface定义\n\n## 概述\ninterface定义是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握interface定义能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-022",
+      "ts-kp-023"
+    ]
   },
   {
     "id": "ts-lesson-020",
@@ -421,7 +501,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 可选与只读\n\n## 概述\n可选与只读是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握可选与只读能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-024"
+    ]
   },
   {
     "id": "ts-lesson-021",
@@ -442,7 +526,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 索引签名\n\n## 概述\n索引签名是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握索引签名能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-025"
+    ]
   },
   {
     "id": "ts-lesson-022",
@@ -463,7 +551,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# interface继承\n\n## 概述\ninterface继承是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握interface继承能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-026"
+    ]
   },
   {
     "id": "ts-lesson-023",
@@ -484,7 +576,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# interface与type区别\n\n## 概述\ninterface与type区别是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握interface与type区别能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-027"
+    ]
   },
   {
     "id": "ts-lesson-024",
@@ -505,7 +601,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数类型定义\n\n## 概述\n函数类型定义是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握函数类型定义能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-028"
+    ]
   },
   {
     "id": "ts-lesson-025",
@@ -526,7 +626,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 可选参数\n\n## 概述\n可选参数是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握可选参数能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-029"
+    ]
   },
   {
     "id": "ts-lesson-026",
@@ -547,7 +651,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 默认参数\n\n## 概述\n默认参数是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握默认参数能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-030"
+    ]
   },
   {
     "id": "ts-lesson-027",
@@ -568,7 +676,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# this类型\n\n## 概述\nthis类型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握this类型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-031"
+    ]
   },
   {
     "id": "ts-lesson-028",
@@ -590,7 +702,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 函数重载\n\n## 概述\n函数重载是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握函数重载能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-032",
+      "ts-kp-033"
+    ]
   },
   {
     "id": "ts-lesson-029",
@@ -611,7 +728,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 数组泛型\n\n## 概述\n数组泛型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握数组泛型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-034"
+    ]
   },
   {
     "id": "ts-lesson-030",
@@ -633,7 +754,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 元组类型\n\n## 概述\n元组类型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握元组类型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-035",
+      "ts-kp-036"
+    ]
   },
   {
     "id": "ts-lesson-031",
@@ -654,7 +780,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 枚举\n\n## 概述\n枚举是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握枚举能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-037"
+    ]
   },
   {
     "id": "ts-lesson-032",
@@ -675,7 +805,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 常量枚举\n\n## 概述\n常量枚举是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握常量枚举能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-038"
+    ]
   },
   {
     "id": "ts-lesson-033",
@@ -696,7 +830,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# never的应用\n\n## 概述\nnever的应用是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握never的应用能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-039"
+    ]
   },
   {
     "id": "ts-lesson-034",
@@ -717,7 +855,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# typeof类型守卫\n\n## 概述\ntypeof类型守卫是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握typeof类型守卫能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-040"
+    ]
   },
   {
     "id": "ts-lesson-035",
@@ -738,7 +880,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# instanceof\n\n## 概述\ninstanceof是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握instanceof能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-041"
+    ]
   },
   {
     "id": "ts-lesson-036",
@@ -759,7 +905,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# in操作符\n\n## 概述\nin操作符是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握in操作符能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-042"
+    ]
   },
   {
     "id": "ts-lesson-037",
@@ -780,7 +930,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类型谓词\n\n## 概述\n类型谓词是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握类型谓词能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-043"
+    ]
   },
   {
     "id": "ts-lesson-038",
@@ -802,7 +956,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 可辨识联合\n\n## 概述\n可辨识联合是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握可辨识联合能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-044",
+      "ts-kp-045"
+    ]
   },
   {
     "id": "ts-lesson-039",
@@ -830,7 +989,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泛型函数\n\n## 概述\n泛型函数是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握泛型函数能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-046",
+      "ts-kp-047"
+    ]
   },
   {
     "id": "ts-lesson-040",
@@ -857,7 +1021,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泛型约束\n\n## 概述\n泛型约束是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握泛型约束能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-048"
+    ]
   },
   {
     "id": "ts-lesson-041",
@@ -884,7 +1052,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泛型接口\n\n## 概述\n泛型接口是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握泛型接口能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-049"
+    ]
   },
   {
     "id": "ts-lesson-042",
@@ -911,7 +1083,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 泛型类\n\n## 概述\n泛型类是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握泛型类能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-050"
+    ]
   },
   {
     "id": "ts-lesson-043",
@@ -938,7 +1114,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 默认泛型\n\n## 概述\n默认泛型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握默认泛型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-051"
+    ]
   },
   {
     "id": "ts-lesson-044",
@@ -960,7 +1140,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 条件类型\n\n## 概述\n条件类型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握条件类型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-052",
+      "ts-kp-053"
+    ]
   },
   {
     "id": "ts-lesson-045",
@@ -981,7 +1166,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# infer推断\n\n## 概述\ninfer推断是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握infer推断能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-054"
+    ]
   },
   {
     "id": "ts-lesson-046",
@@ -1003,7 +1192,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 映射类型\n\n## 概述\n映射类型是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握映射类型能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-055",
+      "ts-kp-056"
+    ]
   },
   {
     "id": "ts-lesson-047",
@@ -1024,7 +1218,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# keyof\n\n## 概述\nkeyof是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握keyof能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-057"
+    ]
   },
   {
     "id": "ts-lesson-048",
@@ -1045,7 +1243,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Partial/Pick/Omit\n\n## 概述\nPartial/Pick/Omit是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握Partial/Pick/Omit能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-058"
+    ]
   },
   {
     "id": "ts-lesson-049",
@@ -1066,7 +1268,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Record/ReturnType\n\n## 概述\nRecord/ReturnType是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握Record/ReturnType能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-059"
+    ]
   },
   {
     "id": "ts-lesson-050",
@@ -1087,7 +1293,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# class定义\n\n## 概述\nclass定义是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握class定义能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-060"
+    ]
   },
   {
     "id": "ts-lesson-051",
@@ -1108,7 +1318,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# public/private\n\n## 概述\npublic/private是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握public/private能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-061"
+    ]
   },
   {
     "id": "ts-lesson-052",
@@ -1129,7 +1343,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# protected/readonly\n\n## 概述\nprotected/readonly是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握protected/readonly能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-062"
+    ]
   },
   {
     "id": "ts-lesson-053",
@@ -1150,7 +1368,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# static\n\n## 概述\nstatic是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握static能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-063"
+    ]
   },
   {
     "id": "ts-lesson-054",
@@ -1171,7 +1393,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# abstract类\n\n## 概述\nabstract类是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握abstract类能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-064"
+    ]
   },
   {
     "id": "ts-lesson-055",
@@ -1192,7 +1418,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# implements\n\n## 概述\nimplements是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握implements能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-065"
+    ]
   },
   {
     "id": "ts-lesson-056",
@@ -1213,7 +1443,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# export/import\n\n## 概述\nexport/import是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握export/import能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-066"
+    ]
   },
   {
     "id": "ts-lesson-057",
@@ -1234,7 +1468,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 命名空间\n\n## 概述\n命名空间是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握命名空间能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-067"
+    ]
   },
   {
     "id": "ts-lesson-058",
@@ -1256,7 +1494,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# d.ts声明\n\n## 概述\nd.ts声明是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握d.ts声明能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-068",
+      "ts-kp-069"
+    ]
   },
   {
     "id": "ts-lesson-059",
@@ -1277,7 +1520,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# @types安装\n\n## 概述\n@types安装是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握@types安装能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-070"
+    ]
   },
   {
     "id": "ts-lesson-060",
@@ -1299,7 +1546,12 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# tsconfig配置\n\n## 概述\ntsconfig配置是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握tsconfig配置能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-071",
+      "ts-kp-072"
+    ]
   },
   {
     "id": "ts-lesson-061",
@@ -1320,7 +1572,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# strict模式\n\n## 概述\nstrict模式是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握strict模式能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-073"
+    ]
   },
   {
     "id": "ts-lesson-062",
@@ -1341,7 +1597,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# moduleResolution\n\n## 概述\nmoduleResolution是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握moduleResolution能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-074"
+    ]
   },
   {
     "id": "ts-lesson-063",
@@ -1362,7 +1622,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# paths/baseUrl\n\n## 概述\npaths/baseUrl是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握paths/baseUrl能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-075"
+    ]
   },
   {
     "id": "ts-lesson-064",
@@ -1383,7 +1647,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 工程引用\n\n## 概述\n工程引用是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握工程引用能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-076"
+    ]
   },
   {
     "id": "ts-lesson-065",
@@ -1404,7 +1672,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# React+TS实践\n\n## 概述\nReact+TS实践是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握React+TS实践能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-077"
+    ]
   },
   {
     "id": "ts-lesson-066",
@@ -1425,7 +1697,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# Node+TS实践\n\n## 概述\nNode+TS实践是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握Node+TS实践能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-078"
+    ]
   },
   {
     "id": "ts-lesson-067",
@@ -1446,7 +1722,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 类型设计原则\n\n## 概述\n类型设计原则是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握类型设计原则能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-079"
+    ]
   },
   {
     "id": "ts-lesson-068",
@@ -1467,7 +1747,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# TS面试题\n\n## 概述\nTS面试题是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握TS面试题能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-080"
+    ]
   },
   {
     "id": "ts-lesson-069",
@@ -1488,7 +1772,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 模拟测试\n\n## 概述\n模拟测试是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握模拟测试能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-081"
+    ]
   },
   {
     "id": "ts-lesson-070",
@@ -1509,7 +1797,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "# 考前冲刺\n\n## 概述\n考前冲刺是TypeScript中的重要概念。\n\n## 使用方法\n```typescript\n// 示例代码\nconst example: string = \"hello\";\n```\n\n## 常见错误\n- 类型不匹配\n- 忘记定义类型\n\n## 总结\n掌握考前冲刺能写出更安全的代码。",
+    "knowledgePoints": [
+      "ts-kp-082"
+    ]
   },
   {
     "id": "ts-lesson-071",
@@ -1530,7 +1822,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补1\n\n补1内容。",
+    "knowledgePoints": [
+      "ts-kp-0071"
+    ]
   },
   {
     "id": "ts-lesson-072",
@@ -1551,7 +1847,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补2\n\n补2内容。",
+    "knowledgePoints": [
+      "ts-kp-0072"
+    ]
   },
   {
     "id": "ts-lesson-073",
@@ -1572,7 +1872,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补3\n\n补3内容。",
+    "knowledgePoints": [
+      "ts-kp-0073"
+    ]
   },
   {
     "id": "ts-lesson-074",
@@ -1593,7 +1897,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补4\n\n补4内容。",
+    "knowledgePoints": [
+      "ts-kp-0074"
+    ]
   },
   {
     "id": "ts-lesson-075",
@@ -1614,7 +1922,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补5\n\n补5内容。",
+    "knowledgePoints": [
+      "ts-kp-0075"
+    ]
   },
   {
     "id": "ts-lesson-076",
@@ -1635,7 +1947,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补6\n\n补6内容。",
+    "knowledgePoints": [
+      "ts-kp-0076"
+    ]
   },
   {
     "id": "ts-lesson-077",
@@ -1656,7 +1972,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补7\n\n补7内容。",
+    "knowledgePoints": [
+      "ts-kp-0077"
+    ]
   },
   {
     "id": "ts-lesson-078",
@@ -1677,7 +1997,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补8\n\n补8内容。",
+    "knowledgePoints": [
+      "ts-kp-0078"
+    ]
   },
   {
     "id": "ts-lesson-079",
@@ -1698,7 +2022,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补9\n\n补9内容。",
+    "knowledgePoints": [
+      "ts-kp-0079"
+    ]
   },
   {
     "id": "ts-lesson-080",
@@ -1719,7 +2047,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补10\n\n补10内容。",
+    "knowledgePoints": [
+      "ts-kp-0080"
+    ]
   },
   {
     "id": "ts-lesson-081",
@@ -1740,7 +2072,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补11\n\n补11内容。",
+    "knowledgePoints": [
+      "ts-kp-0081"
+    ]
   },
   {
     "id": "ts-lesson-082",
@@ -1761,7 +2097,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补12\n\n补12内容。",
+    "knowledgePoints": [
+      "ts-kp-0082"
+    ]
   },
   {
     "id": "ts-lesson-083",
@@ -1782,7 +2122,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补13\n\n补13内容。",
+    "knowledgePoints": [
+      "ts-kp-0083"
+    ]
   },
   {
     "id": "ts-lesson-084",
@@ -1803,7 +2147,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补14\n\n补14内容。",
+    "knowledgePoints": [
+      "ts-kp-0084"
+    ]
   },
   {
     "id": "ts-lesson-085",
@@ -1824,7 +2172,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补15\n\n补15内容。",
+    "knowledgePoints": [
+      "ts-kp-0085"
+    ]
   },
   {
     "id": "ts-lesson-086",
@@ -1845,7 +2197,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补16\n\n补16内容。",
+    "knowledgePoints": [
+      "ts-kp-0086"
+    ]
   },
   {
     "id": "ts-lesson-087",
@@ -1866,7 +2222,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补17\n\n补17内容。",
+    "knowledgePoints": [
+      "ts-kp-0087"
+    ]
   },
   {
     "id": "ts-lesson-088",
@@ -1887,7 +2247,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补18\n\n补18内容。",
+    "knowledgePoints": [
+      "ts-kp-0088"
+    ]
   },
   {
     "id": "ts-lesson-089",
@@ -1908,7 +2272,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补19\n\n补19内容。",
+    "knowledgePoints": [
+      "ts-kp-0089"
+    ]
   },
   {
     "id": "ts-lesson-090",
@@ -1929,7 +2297,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补20\n\n补20内容。",
+    "knowledgePoints": [
+      "ts-kp-0090"
+    ]
   },
   {
     "id": "ts-lesson-091",
@@ -1950,7 +2322,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补21\n\n补21内容。",
+    "knowledgePoints": [
+      "ts-kp-0091"
+    ]
   },
   {
     "id": "ts-lesson-092",
@@ -1971,7 +2347,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补22\n\n补22内容。",
+    "knowledgePoints": [
+      "ts-kp-0092"
+    ]
   },
   {
     "id": "ts-lesson-093",
@@ -1992,7 +2372,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补23\n\n补23内容。",
+    "knowledgePoints": [
+      "ts-kp-0093"
+    ]
   },
   {
     "id": "ts-lesson-094",
@@ -2013,7 +2397,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补24\n\n补24内容。",
+    "knowledgePoints": [
+      "ts-kp-0094"
+    ]
   },
   {
     "id": "ts-lesson-095",
@@ -2034,7 +2422,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补25\n\n补25内容。",
+    "knowledgePoints": [
+      "ts-kp-0095"
+    ]
   },
   {
     "id": "ts-lesson-096",
@@ -2055,7 +2447,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补26\n\n补26内容。",
+    "knowledgePoints": [
+      "ts-kp-0096"
+    ]
   },
   {
     "id": "ts-lesson-097",
@@ -2076,7 +2472,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补27\n\n补27内容。",
+    "knowledgePoints": [
+      "ts-kp-0097"
+    ]
   },
   {
     "id": "ts-lesson-098",
@@ -2097,7 +2497,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补28\n\n补28内容。",
+    "knowledgePoints": [
+      "ts-kp-0098"
+    ]
   },
   {
     "id": "ts-lesson-099",
@@ -2118,7 +2522,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补29\n\n补29内容。",
+    "knowledgePoints": [
+      "ts-kp-0099"
+    ]
   },
   {
     "id": "ts-lesson-100",
@@ -2139,7 +2547,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补30\n\n补30内容。",
+    "knowledgePoints": [
+      "ts-kp-0100"
+    ]
   },
   {
     "id": "ts-lesson-101",
@@ -2160,7 +2572,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补31\n\n补31内容。",
+    "knowledgePoints": [
+      "ts-kp-0101"
+    ]
   },
   {
     "id": "ts-lesson-102",
@@ -2181,7 +2597,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补32\n\n补32内容。",
+    "knowledgePoints": [
+      "ts-kp-0102"
+    ]
   },
   {
     "id": "ts-lesson-103",
@@ -2202,7 +2622,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补33\n\n补33内容。",
+    "knowledgePoints": [
+      "ts-kp-0103"
+    ]
   },
   {
     "id": "ts-lesson-104",
@@ -2223,7 +2647,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补34\n\n补34内容。",
+    "knowledgePoints": [
+      "ts-kp-0104"
+    ]
   },
   {
     "id": "ts-lesson-105",
@@ -2244,7 +2672,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补35\n\n补35内容。",
+    "knowledgePoints": [
+      "ts-kp-0105"
+    ]
   },
   {
     "id": "ts-lesson-106",
@@ -2265,7 +2697,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补36\n\n补36内容。",
+    "knowledgePoints": [
+      "ts-kp-0106"
+    ]
   },
   {
     "id": "ts-lesson-107",
@@ -2286,7 +2722,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补37\n\n补37内容。",
+    "knowledgePoints": [
+      "ts-kp-0107"
+    ]
   },
   {
     "id": "ts-lesson-108",
@@ -2307,7 +2747,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补38\n\n补38内容。",
+    "knowledgePoints": [
+      "ts-kp-0108"
+    ]
   },
   {
     "id": "ts-lesson-109",
@@ -2328,7 +2772,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补39\n\n补39内容。",
+    "knowledgePoints": [
+      "ts-kp-0109"
+    ]
   },
   {
     "id": "ts-lesson-110",
@@ -2349,7 +2797,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补40\n\n补40内容。",
+    "knowledgePoints": [
+      "ts-kp-0110"
+    ]
   },
   {
     "id": "ts-lesson-111",
@@ -2370,7 +2822,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补41\n\n补41内容。",
+    "knowledgePoints": [
+      "ts-kp-0111"
+    ]
   },
   {
     "id": "ts-lesson-112",
@@ -2391,7 +2847,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补42\n\n补42内容。",
+    "knowledgePoints": [
+      "ts-kp-0112"
+    ]
   },
   {
     "id": "ts-lesson-113",
@@ -2412,7 +2872,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补43\n\n补43内容。",
+    "knowledgePoints": [
+      "ts-kp-0113"
+    ]
   },
   {
     "id": "ts-lesson-114",
@@ -2433,7 +2897,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补44\n\n补44内容。",
+    "knowledgePoints": [
+      "ts-kp-0114"
+    ]
   },
   {
     "id": "ts-lesson-115",
@@ -2454,7 +2922,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补45\n\n补45内容。",
+    "knowledgePoints": [
+      "ts-kp-0115"
+    ]
   },
   {
     "id": "ts-lesson-116",
@@ -2475,7 +2947,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补46\n\n补46内容。",
+    "knowledgePoints": [
+      "ts-kp-0116"
+    ]
   },
   {
     "id": "ts-lesson-117",
@@ -2496,7 +2972,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补47\n\n补47内容。",
+    "knowledgePoints": [
+      "ts-kp-0117"
+    ]
   },
   {
     "id": "ts-lesson-118",
@@ -2517,7 +2997,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补48\n\n补48内容。",
+    "knowledgePoints": [
+      "ts-kp-0118"
+    ]
   },
   {
     "id": "ts-lesson-119",
@@ -2538,7 +3022,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补49\n\n补49内容。",
+    "knowledgePoints": [
+      "ts-kp-0119"
+    ]
   },
   {
     "id": "ts-lesson-120",
@@ -2559,7 +3047,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补50\n\n补50内容。",
+    "knowledgePoints": [
+      "ts-kp-0120"
+    ]
   },
   {
     "id": "ts-lesson-121",
@@ -2580,7 +3072,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补51\n\n补51内容。",
+    "knowledgePoints": [
+      "ts-kp-0121"
+    ]
   },
   {
     "id": "ts-lesson-122",
@@ -2601,7 +3097,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补52\n\n补52内容。",
+    "knowledgePoints": [
+      "ts-kp-0122"
+    ]
   },
   {
     "id": "ts-lesson-123",
@@ -2622,7 +3122,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补53\n\n补53内容。",
+    "knowledgePoints": [
+      "ts-kp-0123"
+    ]
   },
   {
     "id": "ts-lesson-124",
@@ -2643,7 +3147,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补54\n\n补54内容。",
+    "knowledgePoints": [
+      "ts-kp-0124"
+    ]
   },
   {
     "id": "ts-lesson-125",
@@ -2664,7 +3172,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补55\n\n补55内容。",
+    "knowledgePoints": [
+      "ts-kp-0125"
+    ]
   },
   {
     "id": "ts-lesson-126",
@@ -2685,7 +3197,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补56\n\n补56内容。",
+    "knowledgePoints": [
+      "ts-kp-0126"
+    ]
   },
   {
     "id": "ts-lesson-127",
@@ -2706,7 +3222,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补57\n\n补57内容。",
+    "knowledgePoints": [
+      "ts-kp-0127"
+    ]
   },
   {
     "id": "ts-lesson-128",
@@ -2727,7 +3247,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补58\n\n补58内容。",
+    "knowledgePoints": [
+      "ts-kp-0128"
+    ]
   },
   {
     "id": "ts-lesson-129",
@@ -2748,7 +3272,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补59\n\n补59内容。",
+    "knowledgePoints": [
+      "ts-kp-0129"
+    ]
   },
   {
     "id": "ts-lesson-130",
@@ -2769,7 +3297,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补60\n\n补60内容。",
+    "knowledgePoints": [
+      "ts-kp-0130"
+    ]
   },
   {
     "id": "ts-lesson-131",
@@ -2790,7 +3322,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补61\n\n补61内容。",
+    "knowledgePoints": [
+      "ts-kp-0131"
+    ]
   },
   {
     "id": "ts-lesson-132",
@@ -2811,7 +3347,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补62\n\n补62内容。",
+    "knowledgePoints": [
+      "ts-kp-0132"
+    ]
   },
   {
     "id": "ts-lesson-133",
@@ -2832,7 +3372,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补63\n\n补63内容。",
+    "knowledgePoints": [
+      "ts-kp-0133"
+    ]
   },
   {
     "id": "ts-lesson-134",
@@ -2853,7 +3397,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补64\n\n补64内容。",
+    "knowledgePoints": [
+      "ts-kp-0134"
+    ]
   },
   {
     "id": "ts-lesson-135",
@@ -2874,7 +3422,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补65\n\n补65内容。",
+    "knowledgePoints": [
+      "ts-kp-0135"
+    ]
   },
   {
     "id": "ts-lesson-136",
@@ -2895,7 +3447,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补66\n\n补66内容。",
+    "knowledgePoints": [
+      "ts-kp-0136"
+    ]
   },
   {
     "id": "ts-lesson-137",
@@ -2916,7 +3472,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补67\n\n补67内容。",
+    "knowledgePoints": [
+      "ts-kp-0137"
+    ]
   },
   {
     "id": "ts-lesson-138",
@@ -2937,7 +3497,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补68\n\n补68内容。",
+    "knowledgePoints": [
+      "ts-kp-0138"
+    ]
   },
   {
     "id": "ts-lesson-139",
@@ -2958,7 +3522,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补69\n\n补69内容。",
+    "knowledgePoints": [
+      "ts-kp-0139"
+    ]
   },
   {
     "id": "ts-lesson-140",
@@ -2979,7 +3547,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补70\n\n补70内容。",
+    "knowledgePoints": [
+      "ts-kp-0140"
+    ]
   },
   {
     "id": "ts-lesson-141",
@@ -3000,7 +3572,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补71\n\n补71内容。",
+    "knowledgePoints": [
+      "ts-kp-0141"
+    ]
   },
   {
     "id": "ts-lesson-142",
@@ -3021,7 +3597,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补72\n\n补72内容。",
+    "knowledgePoints": [
+      "ts-kp-0142"
+    ]
   },
   {
     "id": "ts-lesson-143",
@@ -3042,7 +3622,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补73\n\n补73内容。",
+    "knowledgePoints": [
+      "ts-kp-0143"
+    ]
   },
   {
     "id": "ts-lesson-144",
@@ -3063,7 +3647,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补74\n\n补74内容。",
+    "knowledgePoints": [
+      "ts-kp-0144"
+    ]
   },
   {
     "id": "ts-lesson-145",
@@ -3084,7 +3672,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补75\n\n补75内容。",
+    "knowledgePoints": [
+      "ts-kp-0145"
+    ]
   },
   {
     "id": "ts-lesson-146",
@@ -3105,7 +3697,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补76\n\n补76内容。",
+    "knowledgePoints": [
+      "ts-kp-0146"
+    ]
   },
   {
     "id": "ts-lesson-147",
@@ -3126,7 +3722,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补77\n\n补77内容。",
+    "knowledgePoints": [
+      "ts-kp-0147"
+    ]
   },
   {
     "id": "ts-lesson-148",
@@ -3147,7 +3747,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补78\n\n补78内容。",
+    "knowledgePoints": [
+      "ts-kp-0148"
+    ]
   },
   {
     "id": "ts-lesson-149",
@@ -3168,7 +3772,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补79\n\n补79内容。",
+    "knowledgePoints": [
+      "ts-kp-0149"
+    ]
   },
   {
     "id": "ts-lesson-150",
@@ -3189,7 +3797,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补80\n\n补80内容。",
+    "knowledgePoints": [
+      "ts-kp-0150"
+    ]
   },
   {
     "id": "ts-lesson-151",
@@ -3210,7 +3822,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补81\n\n补81内容。",
+    "knowledgePoints": [
+      "ts-kp-0151"
+    ]
   },
   {
     "id": "ts-lesson-152",
@@ -3231,7 +3847,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补82\n\n补82内容。",
+    "knowledgePoints": [
+      "ts-kp-0152"
+    ]
   },
   {
     "id": "ts-lesson-153",
@@ -3252,7 +3872,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补83\n\n补83内容。",
+    "knowledgePoints": [
+      "ts-kp-0153"
+    ]
   },
   {
     "id": "ts-lesson-154",
@@ -3273,7 +3897,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补84\n\n补84内容。",
+    "knowledgePoints": [
+      "ts-kp-0154"
+    ]
   },
   {
     "id": "ts-lesson-155",
@@ -3294,7 +3922,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补85\n\n补85内容。",
+    "knowledgePoints": [
+      "ts-kp-0155"
+    ]
   },
   {
     "id": "ts-lesson-156",
@@ -3315,7 +3947,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补86\n\n补86内容。",
+    "knowledgePoints": [
+      "ts-kp-0156"
+    ]
   },
   {
     "id": "ts-lesson-157",
@@ -3336,7 +3972,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补87\n\n补87内容。",
+    "knowledgePoints": [
+      "ts-kp-0157"
+    ]
   },
   {
     "id": "ts-lesson-158",
@@ -3357,7 +3997,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补88\n\n补88内容。",
+    "knowledgePoints": [
+      "ts-kp-0158"
+    ]
   },
   {
     "id": "ts-lesson-159",
@@ -3378,7 +4022,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补89\n\n补89内容。",
+    "knowledgePoints": [
+      "ts-kp-0159"
+    ]
   },
   {
     "id": "ts-lesson-160",
@@ -3399,7 +4047,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补90\n\n补90内容。",
+    "knowledgePoints": [
+      "ts-kp-0160"
+    ]
   },
   {
     "id": "ts-lesson-161",
@@ -3420,7 +4072,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补91\n\n补91内容。",
+    "knowledgePoints": [
+      "ts-kp-0161"
+    ]
   },
   {
     "id": "ts-lesson-162",
@@ -3441,7 +4097,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补92\n\n补92内容。",
+    "knowledgePoints": [
+      "ts-kp-0162"
+    ]
   },
   {
     "id": "ts-lesson-163",
@@ -3462,7 +4122,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补93\n\n补93内容。",
+    "knowledgePoints": [
+      "ts-kp-0163"
+    ]
   },
   {
     "id": "ts-lesson-164",
@@ -3483,7 +4147,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补94\n\n补94内容。",
+    "knowledgePoints": [
+      "ts-kp-0164"
+    ]
   },
   {
     "id": "ts-lesson-165",
@@ -3504,7 +4172,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补95\n\n补95内容。",
+    "knowledgePoints": [
+      "ts-kp-0165"
+    ]
   },
   {
     "id": "ts-lesson-166",
@@ -3525,7 +4197,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补96\n\n补96内容。",
+    "knowledgePoints": [
+      "ts-kp-0166"
+    ]
   },
   {
     "id": "ts-lesson-167",
@@ -3546,7 +4222,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补97\n\n补97内容。",
+    "knowledgePoints": [
+      "ts-kp-0167"
+    ]
   },
   {
     "id": "ts-lesson-168",
@@ -3567,7 +4247,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补98\n\n补98内容。",
+    "knowledgePoints": [
+      "ts-kp-0168"
+    ]
   },
   {
     "id": "ts-lesson-169",
@@ -3588,7 +4272,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补99\n\n补99内容。",
+    "knowledgePoints": [
+      "ts-kp-0169"
+    ]
   },
   {
     "id": "ts-lesson-170",
@@ -3609,7 +4297,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补100\n\n补100内容。",
+    "knowledgePoints": [
+      "ts-kp-0170"
+    ]
   },
   {
     "id": "ts-lesson-171",
@@ -3630,7 +4322,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补101\n\n补101内容。",
+    "knowledgePoints": [
+      "ts-kp-0171"
+    ]
   },
   {
     "id": "ts-lesson-172",
@@ -3651,7 +4347,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补102\n\n补102内容。",
+    "knowledgePoints": [
+      "ts-kp-0172"
+    ]
   },
   {
     "id": "ts-lesson-173",
@@ -3672,7 +4372,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补103\n\n补103内容。",
+    "knowledgePoints": [
+      "ts-kp-0173"
+    ]
   },
   {
     "id": "ts-lesson-174",
@@ -3693,7 +4397,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补104\n\n补104内容。",
+    "knowledgePoints": [
+      "ts-kp-0174"
+    ]
   },
   {
     "id": "ts-lesson-175",
@@ -3714,7 +4422,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补105\n\n补105内容。",
+    "knowledgePoints": [
+      "ts-kp-0175"
+    ]
   },
   {
     "id": "ts-lesson-176",
@@ -3735,7 +4447,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补106\n\n补106内容。",
+    "knowledgePoints": [
+      "ts-kp-0176"
+    ]
   },
   {
     "id": "ts-lesson-177",
@@ -3756,7 +4472,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补107\n\n补107内容。",
+    "knowledgePoints": [
+      "ts-kp-0177"
+    ]
   },
   {
     "id": "ts-lesson-178",
@@ -3777,7 +4497,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补108\n\n补108内容。",
+    "knowledgePoints": [
+      "ts-kp-0178"
+    ]
   },
   {
     "id": "ts-lesson-179",
@@ -3798,7 +4522,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补109\n\n补109内容。",
+    "knowledgePoints": [
+      "ts-kp-0179"
+    ]
   },
   {
     "id": "ts-lesson-180",
@@ -3819,7 +4547,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补110\n\n补110内容。",
+    "knowledgePoints": [
+      "ts-kp-0180"
+    ]
   },
   {
     "id": "ts-lesson-181",
@@ -3840,7 +4572,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补111\n\n补111内容。",
+    "knowledgePoints": [
+      "ts-kp-0181"
+    ]
   },
   {
     "id": "ts-lesson-182",
@@ -3861,7 +4597,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补112\n\n补112内容。",
+    "knowledgePoints": [
+      "ts-kp-0182"
+    ]
   },
   {
     "id": "ts-lesson-183",
@@ -3882,7 +4622,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补113\n\n补113内容。",
+    "knowledgePoints": [
+      "ts-kp-0183"
+    ]
   },
   {
     "id": "ts-lesson-184",
@@ -3903,7 +4647,11 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补114\n\n补114内容。",
+    "knowledgePoints": [
+      "ts-kp-0184"
+    ]
   },
   {
     "id": "ts-lesson-185",
@@ -3924,6 +4672,10 @@
       "TypeScript"
     ],
     "prerequisites": [],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "contentMarkdown": "#补115\n\n补115内容。",
+    "knowledgePoints": [
+      "ts-kp-0185"
+    ]
   }
 ]

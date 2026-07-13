@@ -25,7 +25,14 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-001",
+      "ts-lesson-002",
+      "ts-lesson-003",
+      "ts-lesson-004"
+    ],
+    "summary": "TS概述、与JS关系、学习路径、开发环境。"
   },
   {
     "id": "ts-course-02",
@@ -53,7 +60,14 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-005",
+      "ts-lesson-006",
+      "ts-lesson-007",
+      "ts-lesson-008"
+    ],
+    "summary": "静态类型、类型检查、类型推导、类型系统分类。"
   },
   {
     "id": "ts-course-03",
@@ -83,7 +97,16 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-009",
+      "ts-lesson-010",
+      "ts-lesson-011",
+      "ts-lesson-012",
+      "ts-lesson-013",
+      "ts-lesson-014"
+    ],
+    "summary": "string/number/boolean/void/null/undefined/any/unknown/never.变量函数参数返回值的类型注解。"
   },
   {
     "id": "ts-course-04",
@@ -111,7 +134,14 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-015",
+      "ts-lesson-016",
+      "ts-lesson-017",
+      "ts-lesson-018"
+    ],
+    "summary": "union| literal type alias intersection&类型。"
   },
   {
     "id": "ts-course-05",
@@ -140,7 +170,15 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-019",
+      "ts-lesson-020",
+      "ts-lesson-021",
+      "ts-lesson-022",
+      "ts-lesson-023"
+    ],
+    "summary": "interface定义对象类型可选只读索引签名继承。"
   },
   {
     "id": "ts-course-06",
@@ -169,7 +207,15 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-024",
+      "ts-lesson-025",
+      "ts-lesson-026",
+      "ts-lesson-027",
+      "ts-lesson-028"
+    ],
+    "summary": "函数参数返回值类型重载签名this类型。"
   },
   {
     "id": "ts-course-07",
@@ -198,7 +244,15 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-029",
+      "ts-lesson-030",
+      "ts-lesson-031",
+      "ts-lesson-032",
+      "ts-lesson-033"
+    ],
+    "summary": "数组泛型元组enum常量枚举never类型场景。"
   },
   {
     "id": "ts-course-08",
@@ -227,7 +281,15 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-034",
+      "ts-lesson-035",
+      "ts-lesson-036",
+      "ts-lesson-037",
+      "ts-lesson-038"
+    ],
+    "summary": "typeof instanceof in type guard discriminated union。"
   },
   {
     "id": "ts-course-09",
@@ -256,7 +318,15 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-039",
+      "ts-lesson-040",
+      "ts-lesson-041",
+      "ts-lesson-042",
+      "ts-lesson-043"
+    ],
+    "summary": "泛型函数泛型接口泛型约束默认泛型。"
   },
   {
     "id": "ts-course-10",
@@ -286,7 +356,16 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-044",
+      "ts-lesson-045",
+      "ts-lesson-046",
+      "ts-lesson-047",
+      "ts-lesson-048",
+      "ts-lesson-049"
+    ],
+    "summary": "条件类型infer映射类型keyofasPartialPickOmitRecordReturnType。"
   },
   {
     "id": "ts-course-11",
@@ -316,7 +395,16 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-050",
+      "ts-lesson-051",
+      "ts-lesson-052",
+      "ts-lesson-053",
+      "ts-lesson-054",
+      "ts-lesson-055"
+    ],
+    "summary": "class继承abstract implementspublic/private/protectedreadonlystatic。"
   },
   {
     "id": "ts-course-12",
@@ -344,7 +432,14 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-056",
+      "ts-lesson-057",
+      "ts-lesson-058",
+      "ts-lesson-059"
+    ],
+    "summary": "ESM/CommonJS模块.d.ts声明文件@types环境声明。"
   },
   {
     "id": "ts-course-13",
@@ -373,7 +468,15 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-060",
+      "ts-lesson-061",
+      "ts-lesson-062",
+      "ts-lesson-063",
+      "ts-lesson-064"
+    ],
+    "summary": "tsconfig配置strict模式工程引用构建工具配置。"
   },
   {
     "id": "ts-course-14",
@@ -403,6 +506,15 @@
       "掌握工具类型",
       "能编写安全类型代码"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "lessons": [
+      "ts-lesson-065",
+      "ts-lesson-066",
+      "ts-lesson-067",
+      "ts-lesson-068",
+      "ts-lesson-069",
+      "ts-lesson-070"
+    ],
+    "summary": "React+TS项目Node+TS项目类型设计面试题。"
   }
 ]

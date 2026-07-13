@@ -36,7 +36,11 @@
     "tags": [
       "TypeScript入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TypeScript入门基础",
+    "description": "TypeScript入门基础",
+    "slug": "typescript入门基础"
   },
   {
     "id": "ts-exam-02",
@@ -75,7 +79,11 @@
     "tags": [
       "类型系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型系统基础",
+    "description": "类型系统基础",
+    "slug": "类型系统基础"
   },
   {
     "id": "ts-exam-03",
@@ -114,7 +122,11 @@
     "tags": [
       "基础类型与注解"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "基础类型与注解基础",
+    "description": "基础类型与注解基础",
+    "slug": "基础类型与注解基础"
   },
   {
     "id": "ts-exam-04",
@@ -153,7 +165,11 @@
     "tags": [
       "联合类型与别名"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "联合类型与别名基础",
+    "description": "联合类型与别名基础",
+    "slug": "联合类型与别名基础"
   },
   {
     "id": "ts-exam-05",
@@ -192,7 +208,11 @@
     "tags": [
       "接口interface"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口interface基础",
+    "description": "接口interface基础",
+    "slug": "接口interface基础"
   },
   {
     "id": "ts-exam-06",
@@ -231,7 +251,11 @@
     "tags": [
       "函数类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "函数类型基础",
+    "description": "函数类型基础",
+    "slug": "函数类型基础"
   },
   {
     "id": "ts-exam-07",
@@ -270,7 +294,11 @@
     "tags": [
       "数组元组枚举"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数组元组枚举基础",
+    "description": "数组元组枚举基础",
+    "slug": "数组元组枚举基础"
   },
   {
     "id": "ts-exam-08",
@@ -309,7 +337,11 @@
     "tags": [
       "类型收窄"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型收窄基础",
+    "description": "类型收窄基础",
+    "slug": "类型收窄基础"
   },
   {
     "id": "ts-exam-09",
@@ -348,7 +380,11 @@
     "tags": [
       "泛型基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型基础基础",
+    "description": "泛型基础基础",
+    "slug": "泛型基础基础"
   },
   {
     "id": "ts-exam-10",
@@ -387,7 +423,11 @@
     "tags": [
       "泛型进阶工具类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型进阶工具类型基础",
+    "description": "泛型进阶工具类型基础",
+    "slug": "泛型进阶工具类型基础"
   },
   {
     "id": "ts-exam-11",
@@ -426,7 +466,11 @@
     "tags": [
       "类与面向对象"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类与面向对象基础",
+    "description": "类与面向对象基础",
+    "slug": "类与面向对象基础"
   },
   {
     "id": "ts-exam-12",
@@ -465,7 +509,11 @@
     "tags": [
       "模块声明文件"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块声明文件基础",
+    "description": "模块声明文件基础",
+    "slug": "模块声明文件基础"
   },
   {
     "id": "ts-exam-13",
@@ -504,7 +552,11 @@
     "tags": [
       "tsconfig工程配置"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "tsconfig工程配置基础",
+    "description": "tsconfig工程配置基础",
+    "slug": "tsconfig工程配置基础"
   },
   {
     "id": "ts-exam-14",
@@ -543,7 +595,11 @@
     "tags": [
       "项目实战与面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战与面试基础",
+    "description": "项目实战与面试基础",
+    "slug": "项目实战与面试基础"
   },
   {
     "id": "ts-exam-15",
@@ -582,7 +638,11 @@
     "tags": [
       "TypeScript入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TypeScript入门基础",
+    "description": "TypeScript入门基础",
+    "slug": "typescript入门基础"
   },
   {
     "id": "ts-exam-16",
@@ -621,7 +681,11 @@
     "tags": [
       "类型系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型系统基础",
+    "description": "类型系统基础",
+    "slug": "类型系统基础"
   },
   {
     "id": "ts-exam-17",
@@ -660,7 +724,11 @@
     "tags": [
       "基础类型与注解"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "基础类型与注解基础",
+    "description": "基础类型与注解基础",
+    "slug": "基础类型与注解基础"
   },
   {
     "id": "ts-exam-18",
@@ -699,7 +767,11 @@
     "tags": [
       "联合类型与别名"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "联合类型与别名基础",
+    "description": "联合类型与别名基础",
+    "slug": "联合类型与别名基础"
   },
   {
     "id": "ts-exam-19",
@@ -738,7 +810,11 @@
     "tags": [
       "接口interface"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口interface基础",
+    "description": "接口interface基础",
+    "slug": "接口interface基础"
   },
   {
     "id": "ts-exam-20",
@@ -777,7 +853,11 @@
     "tags": [
       "函数类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "函数类型基础",
+    "description": "函数类型基础",
+    "slug": "函数类型基础"
   },
   {
     "id": "ts-exam-21",
@@ -816,7 +896,11 @@
     "tags": [
       "数组元组枚举"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数组元组枚举基础",
+    "description": "数组元组枚举基础",
+    "slug": "数组元组枚举基础"
   },
   {
     "id": "ts-exam-22",
@@ -855,7 +939,11 @@
     "tags": [
       "类型收窄"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型收窄基础",
+    "description": "类型收窄基础",
+    "slug": "类型收窄基础"
   },
   {
     "id": "ts-exam-23",
@@ -894,7 +982,11 @@
     "tags": [
       "泛型基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型基础基础",
+    "description": "泛型基础基础",
+    "slug": "泛型基础基础"
   },
   {
     "id": "ts-exam-24",
@@ -933,7 +1025,11 @@
     "tags": [
       "泛型进阶工具类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型进阶工具类型基础",
+    "description": "泛型进阶工具类型基础",
+    "slug": "泛型进阶工具类型基础"
   },
   {
     "id": "ts-exam-25",
@@ -972,7 +1068,11 @@
     "tags": [
       "类与面向对象"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类与面向对象基础",
+    "description": "类与面向对象基础",
+    "slug": "类与面向对象基础"
   },
   {
     "id": "ts-exam-26",
@@ -1011,7 +1111,11 @@
     "tags": [
       "模块声明文件"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块声明文件基础",
+    "description": "模块声明文件基础",
+    "slug": "模块声明文件基础"
   },
   {
     "id": "ts-exam-27",
@@ -1050,7 +1154,11 @@
     "tags": [
       "tsconfig工程配置"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "tsconfig工程配置基础",
+    "description": "tsconfig工程配置基础",
+    "slug": "tsconfig工程配置基础"
   },
   {
     "id": "ts-exam-28",
@@ -1089,7 +1197,11 @@
     "tags": [
       "项目实战与面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战与面试基础",
+    "description": "项目实战与面试基础",
+    "slug": "项目实战与面试基础"
   },
   {
     "id": "ts-exam-29",
@@ -1128,7 +1240,11 @@
     "tags": [
       "TypeScript入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TypeScript入门基础",
+    "description": "TypeScript入门基础",
+    "slug": "typescript入门基础"
   },
   {
     "id": "ts-exam-30",
@@ -1167,7 +1283,11 @@
     "tags": [
       "类型系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型系统基础",
+    "description": "类型系统基础",
+    "slug": "类型系统基础"
   },
   {
     "id": "ts-exam-31",
@@ -1206,7 +1326,11 @@
     "tags": [
       "基础类型与注解"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "基础类型与注解基础",
+    "description": "基础类型与注解基础",
+    "slug": "基础类型与注解基础"
   },
   {
     "id": "ts-exam-32",
@@ -1245,7 +1369,11 @@
     "tags": [
       "联合类型与别名"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "联合类型与别名基础",
+    "description": "联合类型与别名基础",
+    "slug": "联合类型与别名基础"
   },
   {
     "id": "ts-exam-33",
@@ -1284,7 +1412,11 @@
     "tags": [
       "接口interface"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口interface基础",
+    "description": "接口interface基础",
+    "slug": "接口interface基础"
   },
   {
     "id": "ts-exam-34",
@@ -1323,7 +1455,11 @@
     "tags": [
       "函数类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "函数类型基础",
+    "description": "函数类型基础",
+    "slug": "函数类型基础"
   },
   {
     "id": "ts-exam-35",
@@ -1362,7 +1498,11 @@
     "tags": [
       "数组元组枚举"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数组元组枚举基础",
+    "description": "数组元组枚举基础",
+    "slug": "数组元组枚举基础"
   },
   {
     "id": "ts-exam-36",
@@ -1401,7 +1541,11 @@
     "tags": [
       "类型收窄"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型收窄进阶",
+    "description": "类型收窄进阶",
+    "slug": "类型收窄进阶"
   },
   {
     "id": "ts-exam-37",
@@ -1440,7 +1584,11 @@
     "tags": [
       "泛型基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型基础进阶",
+    "description": "泛型基础进阶",
+    "slug": "泛型基础进阶"
   },
   {
     "id": "ts-exam-38",
@@ -1479,7 +1627,11 @@
     "tags": [
       "泛型进阶工具类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型进阶工具类型进阶",
+    "description": "泛型进阶工具类型进阶",
+    "slug": "泛型进阶工具类型进阶"
   },
   {
     "id": "ts-exam-39",
@@ -1518,7 +1670,11 @@
     "tags": [
       "类与面向对象"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类与面向对象进阶",
+    "description": "类与面向对象进阶",
+    "slug": "类与面向对象进阶"
   },
   {
     "id": "ts-exam-40",
@@ -1557,7 +1713,11 @@
     "tags": [
       "模块声明文件"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块声明文件进阶",
+    "description": "模块声明文件进阶",
+    "slug": "模块声明文件进阶"
   },
   {
     "id": "ts-exam-41",
@@ -1596,7 +1756,11 @@
     "tags": [
       "tsconfig工程配置"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "tsconfig工程配置进阶",
+    "description": "tsconfig工程配置进阶",
+    "slug": "tsconfig工程配置进阶"
   },
   {
     "id": "ts-exam-42",
@@ -1635,7 +1799,11 @@
     "tags": [
       "项目实战与面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战与面试进阶",
+    "description": "项目实战与面试进阶",
+    "slug": "项目实战与面试进阶"
   },
   {
     "id": "ts-exam-43",
@@ -1674,7 +1842,11 @@
     "tags": [
       "TypeScript入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TypeScript入门进阶",
+    "description": "TypeScript入门进阶",
+    "slug": "typescript入门进阶"
   },
   {
     "id": "ts-exam-44",
@@ -1713,7 +1885,11 @@
     "tags": [
       "类型系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型系统进阶",
+    "description": "类型系统进阶",
+    "slug": "类型系统进阶"
   },
   {
     "id": "ts-exam-45",
@@ -1752,7 +1928,11 @@
     "tags": [
       "基础类型与注解"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "基础类型与注解进阶",
+    "description": "基础类型与注解进阶",
+    "slug": "基础类型与注解进阶"
   },
   {
     "id": "ts-exam-46",
@@ -1791,7 +1971,11 @@
     "tags": [
       "联合类型与别名"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "联合类型与别名进阶",
+    "description": "联合类型与别名进阶",
+    "slug": "联合类型与别名进阶"
   },
   {
     "id": "ts-exam-47",
@@ -1830,7 +2014,11 @@
     "tags": [
       "接口interface"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口interface进阶",
+    "description": "接口interface进阶",
+    "slug": "接口interface进阶"
   },
   {
     "id": "ts-exam-48",
@@ -1869,7 +2057,11 @@
     "tags": [
       "函数类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "函数类型进阶",
+    "description": "函数类型进阶",
+    "slug": "函数类型进阶"
   },
   {
     "id": "ts-exam-49",
@@ -1908,7 +2100,11 @@
     "tags": [
       "数组元组枚举"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数组元组枚举进阶",
+    "description": "数组元组枚举进阶",
+    "slug": "数组元组枚举进阶"
   },
   {
     "id": "ts-exam-50",
@@ -1947,7 +2143,11 @@
     "tags": [
       "类型收窄"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型收窄进阶",
+    "description": "类型收窄进阶",
+    "slug": "类型收窄进阶"
   },
   {
     "id": "ts-exam-51",
@@ -1986,7 +2186,11 @@
     "tags": [
       "泛型基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型基础进阶",
+    "description": "泛型基础进阶",
+    "slug": "泛型基础进阶"
   },
   {
     "id": "ts-exam-52",
@@ -2025,7 +2229,11 @@
     "tags": [
       "泛型进阶工具类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型进阶工具类型进阶",
+    "description": "泛型进阶工具类型进阶",
+    "slug": "泛型进阶工具类型进阶"
   },
   {
     "id": "ts-exam-53",
@@ -2064,7 +2272,11 @@
     "tags": [
       "类与面向对象"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类与面向对象进阶",
+    "description": "类与面向对象进阶",
+    "slug": "类与面向对象进阶"
   },
   {
     "id": "ts-exam-54",
@@ -2103,7 +2315,11 @@
     "tags": [
       "模块声明文件"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "模块声明文件进阶",
+    "description": "模块声明文件进阶",
+    "slug": "模块声明文件进阶"
   },
   {
     "id": "ts-exam-55",
@@ -2142,7 +2358,11 @@
     "tags": [
       "tsconfig工程配置"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "tsconfig工程配置进阶",
+    "description": "tsconfig工程配置进阶",
+    "slug": "tsconfig工程配置进阶"
   },
   {
     "id": "ts-exam-56",
@@ -2181,7 +2401,11 @@
     "tags": [
       "项目实战与面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "项目实战与面试进阶",
+    "description": "项目实战与面试进阶",
+    "slug": "项目实战与面试进阶"
   },
   {
     "id": "ts-exam-57",
@@ -2220,7 +2444,11 @@
     "tags": [
       "TypeScript入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "TypeScript入门进阶",
+    "description": "TypeScript入门进阶",
+    "slug": "typescript入门进阶"
   },
   {
     "id": "ts-exam-58",
@@ -2259,7 +2487,11 @@
     "tags": [
       "类型系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型系统进阶",
+    "description": "类型系统进阶",
+    "slug": "类型系统进阶"
   },
   {
     "id": "ts-exam-59",
@@ -2298,7 +2530,11 @@
     "tags": [
       "基础类型与注解"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "基础类型与注解进阶",
+    "description": "基础类型与注解进阶",
+    "slug": "基础类型与注解进阶"
   },
   {
     "id": "ts-exam-60",
@@ -2337,7 +2573,11 @@
     "tags": [
       "联合类型与别名"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "联合类型与别名进阶",
+    "description": "联合类型与别名进阶",
+    "slug": "联合类型与别名进阶"
   },
   {
     "id": "ts-exam-61",
@@ -2376,7 +2616,11 @@
     "tags": [
       "接口interface"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "接口interface进阶",
+    "description": "接口interface进阶",
+    "slug": "接口interface进阶"
   },
   {
     "id": "ts-exam-62",
@@ -2415,7 +2659,11 @@
     "tags": [
       "函数类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "函数类型进阶",
+    "description": "函数类型进阶",
+    "slug": "函数类型进阶"
   },
   {
     "id": "ts-exam-63",
@@ -2454,7 +2702,11 @@
     "tags": [
       "数组元组枚举"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "数组元组枚举进阶",
+    "description": "数组元组枚举进阶",
+    "slug": "数组元组枚举进阶"
   },
   {
     "id": "ts-exam-64",
@@ -2493,7 +2745,11 @@
     "tags": [
       "类型收窄"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "类型收窄进阶",
+    "description": "类型收窄进阶",
+    "slug": "类型收窄进阶"
   },
   {
     "id": "ts-exam-65",
@@ -2532,7 +2788,11 @@
     "tags": [
       "泛型基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 60,
+    "summary": "泛型基础进阶",
+    "description": "泛型基础进阶",
+    "slug": "泛型基础进阶"
   },
   {
     "id": "ts-exam-66",
@@ -2571,7 +2831,11 @@
     "tags": [
       "泛型进阶工具类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "泛型进阶工具类型综合",
+    "description": "泛型进阶工具类型综合",
+    "slug": "泛型进阶工具类型综合"
   },
   {
     "id": "ts-exam-67",
@@ -2610,7 +2874,11 @@
     "tags": [
       "类与面向对象"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "类与面向对象综合",
+    "description": "类与面向对象综合",
+    "slug": "类与面向对象综合"
   },
   {
     "id": "ts-exam-68",
@@ -2649,7 +2917,11 @@
     "tags": [
       "模块声明文件"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "模块声明文件综合",
+    "description": "模块声明文件综合",
+    "slug": "模块声明文件综合"
   },
   {
     "id": "ts-exam-69",
@@ -2688,7 +2960,11 @@
     "tags": [
       "tsconfig工程配置"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "tsconfig工程配置综合",
+    "description": "tsconfig工程配置综合",
+    "slug": "tsconfig工程配置综合"
   },
   {
     "id": "ts-exam-70",
@@ -2727,7 +3003,11 @@
     "tags": [
       "项目实战与面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "项目实战与面试综合",
+    "description": "项目实战与面试综合",
+    "slug": "项目实战与面试综合"
   },
   {
     "id": "ts-exam-71",
@@ -2766,7 +3046,11 @@
     "tags": [
       "TypeScript入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "TypeScript入门综合",
+    "description": "TypeScript入门综合",
+    "slug": "typescript入门综合"
   },
   {
     "id": "ts-exam-72",
@@ -2805,7 +3089,11 @@
     "tags": [
       "类型系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "类型系统综合",
+    "description": "类型系统综合",
+    "slug": "类型系统综合"
   },
   {
     "id": "ts-exam-73",
@@ -2844,7 +3132,11 @@
     "tags": [
       "基础类型与注解"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "基础类型与注解综合",
+    "description": "基础类型与注解综合",
+    "slug": "基础类型与注解综合"
   },
   {
     "id": "ts-exam-74",
@@ -2883,7 +3175,11 @@
     "tags": [
       "联合类型与别名"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "联合类型与别名综合",
+    "description": "联合类型与别名综合",
+    "slug": "联合类型与别名综合"
   },
   {
     "id": "ts-exam-75",
@@ -2922,7 +3218,11 @@
     "tags": [
       "接口interface"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "接口interface综合",
+    "description": "接口interface综合",
+    "slug": "接口interface综合"
   },
   {
     "id": "ts-exam-76",
@@ -2961,7 +3261,11 @@
     "tags": [
       "函数类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "函数类型综合",
+    "description": "函数类型综合",
+    "slug": "函数类型综合"
   },
   {
     "id": "ts-exam-77",
@@ -3000,7 +3304,11 @@
     "tags": [
       "数组元组枚举"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "数组元组枚举综合",
+    "description": "数组元组枚举综合",
+    "slug": "数组元组枚举综合"
   },
   {
     "id": "ts-exam-78",
@@ -3039,7 +3347,11 @@
     "tags": [
       "类型收窄"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "类型收窄综合",
+    "description": "类型收窄综合",
+    "slug": "类型收窄综合"
   },
   {
     "id": "ts-exam-79",
@@ -3078,7 +3390,11 @@
     "tags": [
       "泛型基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "泛型基础综合",
+    "description": "泛型基础综合",
+    "slug": "泛型基础综合"
   },
   {
     "id": "ts-exam-80",
@@ -3117,7 +3433,11 @@
     "tags": [
       "泛型进阶工具类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "泛型进阶工具类型综合",
+    "description": "泛型进阶工具类型综合",
+    "slug": "泛型进阶工具类型综合"
   },
   {
     "id": "ts-exam-81",
@@ -3156,7 +3476,11 @@
     "tags": [
       "类与面向对象"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "类与面向对象综合",
+    "description": "类与面向对象综合",
+    "slug": "类与面向对象综合"
   },
   {
     "id": "ts-exam-82",
@@ -3195,7 +3519,11 @@
     "tags": [
       "模块声明文件"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "模块声明文件综合",
+    "description": "模块声明文件综合",
+    "slug": "模块声明文件综合"
   },
   {
     "id": "ts-exam-83",
@@ -3234,7 +3562,11 @@
     "tags": [
       "tsconfig工程配置"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "tsconfig工程配置综合",
+    "description": "tsconfig工程配置综合",
+    "slug": "tsconfig工程配置综合"
   },
   {
     "id": "ts-exam-84",
@@ -3273,7 +3605,11 @@
     "tags": [
       "项目实战与面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "项目实战与面试综合",
+    "description": "项目实战与面试综合",
+    "slug": "项目实战与面试综合"
   },
   {
     "id": "ts-exam-85",
@@ -3312,7 +3648,11 @@
     "tags": [
       "TypeScript入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "TypeScript入门综合",
+    "description": "TypeScript入门综合",
+    "slug": "typescript入门综合"
   },
   {
     "id": "ts-exam-86",
@@ -3351,7 +3691,11 @@
     "tags": [
       "类型系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "类型系统综合",
+    "description": "类型系统综合",
+    "slug": "类型系统综合"
   },
   {
     "id": "ts-exam-87",
@@ -3390,7 +3734,11 @@
     "tags": [
       "基础类型与注解"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "基础类型与注解综合",
+    "description": "基础类型与注解综合",
+    "slug": "基础类型与注解综合"
   },
   {
     "id": "ts-exam-88",
@@ -3429,7 +3777,11 @@
     "tags": [
       "联合类型与别名"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "联合类型与别名综合",
+    "description": "联合类型与别名综合",
+    "slug": "联合类型与别名综合"
   },
   {
     "id": "ts-exam-89",
@@ -3468,7 +3820,11 @@
     "tags": [
       "接口interface"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "接口interface综合",
+    "description": "接口interface综合",
+    "slug": "接口interface综合"
   },
   {
     "id": "ts-exam-90",
@@ -3507,7 +3863,11 @@
     "tags": [
       "函数类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "函数类型综合",
+    "description": "函数类型综合",
+    "slug": "函数类型综合"
   },
   {
     "id": "ts-exam-91",
@@ -3546,7 +3906,11 @@
     "tags": [
       "数组元组枚举"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "数组元组枚举综合",
+    "description": "数组元组枚举综合",
+    "slug": "数组元组枚举综合"
   },
   {
     "id": "ts-exam-92",
@@ -3585,7 +3949,11 @@
     "tags": [
       "类型收窄"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "类型收窄综合",
+    "description": "类型收窄综合",
+    "slug": "类型收窄综合"
   },
   {
     "id": "ts-exam-93",
@@ -3624,7 +3992,11 @@
     "tags": [
       "泛型基础"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "泛型基础综合",
+    "description": "泛型基础综合",
+    "slug": "泛型基础综合"
   },
   {
     "id": "ts-exam-94",
@@ -3663,7 +4035,11 @@
     "tags": [
       "泛型进阶工具类型"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "泛型进阶工具类型综合",
+    "description": "泛型进阶工具类型综合",
+    "slug": "泛型进阶工具类型综合"
   },
   {
     "id": "ts-exam-95",
@@ -3702,7 +4078,11 @@
     "tags": [
       "类与面向对象"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "类与面向对象综合",
+    "description": "类与面向对象综合",
+    "slug": "类与面向对象综合"
   },
   {
     "id": "ts-exam-96",
@@ -3741,7 +4121,11 @@
     "tags": [
       "模块声明文件"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "模块声明文件综合",
+    "description": "模块声明文件综合",
+    "slug": "模块声明文件综合"
   },
   {
     "id": "ts-exam-97",
@@ -3780,7 +4164,11 @@
     "tags": [
       "tsconfig工程配置"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "tsconfig工程配置综合",
+    "description": "tsconfig工程配置综合",
+    "slug": "tsconfig工程配置综合"
   },
   {
     "id": "ts-exam-98",
@@ -3819,7 +4207,11 @@
     "tags": [
       "项目实战与面试"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "项目实战与面试综合",
+    "description": "项目实战与面试综合",
+    "slug": "项目实战与面试综合"
   },
   {
     "id": "ts-exam-99",
@@ -3858,7 +4250,11 @@
     "tags": [
       "TypeScript入门"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "TypeScript入门综合",
+    "description": "TypeScript入门综合",
+    "slug": "typescript入门综合"
   },
   {
     "id": "ts-exam-100",
@@ -3897,6 +4293,10 @@
     "tags": [
       "类型系统"
     ],
-    "updatedAt": "2026-07-02T00:00:00.000Z"
+    "updatedAt": "2026-07-02T00:00:00.000Z",
+    "timeLimitMinutes": 90,
+    "summary": "类型系统综合",
+    "description": "类型系统综合",
+    "slug": "类型系统综合"
   }
 ]
