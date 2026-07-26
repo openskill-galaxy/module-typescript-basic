@@ -1,31 +1,62 @@
 [
   {
     "id": "mod-typescript-basic-exam-1",
-    "slug": "final-exam",
-    "title": "TypeScript 基础与工程实践 核心期末综合自测",
-    "summary": "全面检验您对 TypeScript 基础与工程实践 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "TypeScript 基础与工程实践 基础入门测验",
+    "summary": "覆盖类型注解、数组与枚举、interface 基础、类型推断等入门必备考点。",
     "difficulty": "easy",
     "questionIds": [
       "mod-typescript-basic-q-1",
       "mod-typescript-basic-q-2",
       "mod-typescript-basic-q-3",
-      "mod-typescript-basic-q-4",
       "mod-typescript-basic-q-5",
-      "mod-typescript-basic-q-6"
+      "mod-typescript-basic-q-11",
+      "mod-typescript-basic-q-15",
+      "mod-typescript-basic-q-19",
+      "mod-typescript-basic-q-21",
+      "mod-typescript-basic-q-23"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-typescript-basic-exam-2",
-    "slug": "basic-exam",
-    "title": "TypeScript 基础与工程实践 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "TypeScript 基础与工程实践 进阶强化测验",
+    "summary": "聚焦泛型、类型收窄、工具类型、strict 模式与工程化配置等核心进阶主题。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-typescript-basic-q-1",
-      "mod-typescript-basic-q-2",
-      "mod-typescript-basic-q-3"
+      "mod-typescript-basic-q-4",
+      "mod-typescript-basic-q-6",
+      "mod-typescript-basic-q-7",
+      "mod-typescript-basic-q-8",
+      "mod-typescript-basic-q-9",
+      "mod-typescript-basic-q-10",
+      "mod-typescript-basic-q-12",
+      "mod-typescript-basic-q-13",
+      "mod-typescript-basic-q-16",
+      "mod-typescript-basic-q-20"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-typescript-basic-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "TypeScript 基础与工程实践 综合模拟考试",
+    "summary": "综合考查 keyof 类型运算、类型断言风险、编译器职责与类型擦除，模拟真实面试与实战难度。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-typescript-basic-q-4",
+      "mod-typescript-basic-q-8",
+      "mod-typescript-basic-q-10",
+      "mod-typescript-basic-q-14",
+      "mod-typescript-basic-q-16",
+      "mod-typescript-basic-q-17",
+      "mod-typescript-basic-q-18",
+      "mod-typescript-basic-q-20",
+      "mod-typescript-basic-q-22",
+      "mod-typescript-basic-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60
