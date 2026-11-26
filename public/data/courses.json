@@ -1,71 +1,70 @@
 [
   {
     "id": "mod-typescript-basic-c-1",
-    "title": "TypeScript 基础与工程实践 架构原理与初始化",
+    "title": "类型检查与运行时边界 / 联合类型与控制流收窄",
     "slug": "course-1",
-    "summary": "深度探索 TypeScript 基础与工程实践 的设计理念、运行架构以及初始化配置引导。",
+    "summary": "例题研习覆盖类型系统、基础概念、类型擦除、运行时校验、联合类型、字面量类型、类型收窄、类型守卫。",
     "order": 1,
     "difficulty": "easy",
-    "estimatedHours": 50,
+    "estimatedHours": 0.3,
     "lessons": [
       "mod-typescript-basic-l-1",
       "mod-typescript-basic-l-2"
     ],
     "tags": [
-      "TypeScript",
-      "前端工程化",
       "类型系统",
-      "泛型",
-      "React",
-      "Node",
-      "tsconfig",
-      "代码质量"
+      "基础概念",
+      "类型擦除",
+      "运行时校验",
+      "联合类型",
+      "字面量类型",
+      "类型收窄",
+      "类型守卫"
     ]
   },
   {
     "id": "mod-typescript-basic-c-2",
-    "title": "TypeScript 基础与工程实践 核心机制与开发实战",
+    "title": "接口、别名与交叉类型 / 泛型推断与键类型",
     "slug": "course-2",
-    "summary": "掌握 TypeScript 基础与工程实践 的核心组件、API 接口调用以及本地开发调试。",
+    "summary": "例题研习覆盖interface、type别名、交叉类型、类型运算、泛型、类型推断、keyof。",
     "order": 2,
     "difficulty": "easy",
-    "estimatedHours": 50,
+    "estimatedHours": 0.4,
     "lessons": [
       "mod-typescript-basic-l-3",
       "mod-typescript-basic-l-4"
     ],
     "tags": [
-      "TypeScript",
-      "前端工程化",
-      "类型系统",
+      "interface",
+      "type别名",
+      "交叉类型",
+      "类型运算",
       "泛型",
-      "React",
-      "Node",
-      "tsconfig",
-      "代码质量"
+      "类型推断",
+      "keyof"
     ]
   },
   {
     "id": "mod-typescript-basic-c-3",
-    "title": "TypeScript 基础与工程实践 高级优化与生产部署",
+    "title": "工具类型与只读属性 / 严格配置与空安全",
     "slug": "course-3",
-    "summary": "学习如何进行系统性能监控调优、高可用集群部署与数据存储。",
+    "summary": "例题研习覆盖工具类型、Partial、readonly、不可变、tsconfig、严格模式、空安全、strictNullChecks。",
     "order": 3,
     "difficulty": "easy",
-    "estimatedHours": 50,
+    "estimatedHours": 0.3,
     "lessons": [
       "mod-typescript-basic-l-5",
       "mod-typescript-basic-l-6"
     ],
     "tags": [
-      "TypeScript",
-      "前端工程化",
-      "类型系统",
-      "泛型",
-      "React",
-      "Node",
+      "工具类型",
+      "Partial",
+      "readonly",
+      "不可变",
       "tsconfig",
-      "代码质量"
+      "严格模式",
+      "空安全",
+      "strictNullChecks"
     ]
   }
 ]

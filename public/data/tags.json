@@ -186,7 +186,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-021",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-022",
@@ -321,7 +322,8 @@
     "description": "TS标签：generic",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "generic"
+    "slug": "generic-ts-tag-036",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-037",
@@ -384,7 +386,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-043",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-044",
@@ -411,7 +414,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-046",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-047",
@@ -438,7 +442,8 @@
     "description": "TS标签：Readonly",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "readonly"
+    "slug": "readonly-ts-tag-049",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-050",
@@ -528,7 +533,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-059",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-060",
@@ -546,7 +552,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-061",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-062",
@@ -564,7 +571,8 @@
     "description": "TS标签：typeof",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "typeof"
+    "slug": "typeof-ts-tag-063",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-064",
@@ -591,7 +599,8 @@
     "description": "TS标签：in",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "in"
+    "slug": "in-ts-tag-066",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-067",
@@ -618,7 +627,8 @@
     "description": "TS标签：in",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "in"
+    "slug": "in-ts-tag-069",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-070",
@@ -627,7 +637,8 @@
     "description": "TS标签：keyof",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "keyof"
+    "slug": "keyof-ts-tag-070",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-071",
@@ -888,7 +899,8 @@
     "description": "TS标签：jsx",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "jsx"
+    "slug": "jsx-ts-tag-099",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-100",
@@ -969,7 +981,8 @@
     "description": "TS标签：extends",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "extends"
+    "slug": "extends-ts-tag-108",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-109",
@@ -978,7 +991,8 @@
     "description": "TS标签：extends",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "extends"
+    "slug": "extends-ts-tag-109",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-110",
@@ -987,7 +1001,8 @@
     "description": "TS标签：tsconfig",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "tsconfig"
+    "slug": "tsconfig-ts-tag-110",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-111",
@@ -996,7 +1011,8 @@
     "description": "TS标签：extends",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "extends"
+    "slug": "extends-ts-tag-111",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-112",
@@ -1014,7 +1030,8 @@
     "description": "TS标签：exclude",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "exclude"
+    "slug": "exclude-ts-tag-113",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-114",
@@ -1068,7 +1085,8 @@
     "description": "TS标签：declaration",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "declaration"
+    "slug": "declaration-ts-tag-119",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-120",
@@ -1095,7 +1113,8 @@
     "description": "TS标签：esModuleInterop",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "esmoduleinterop"
+    "slug": "esmoduleinterop-ts-tag-122",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-123",
@@ -1437,7 +1456,8 @@
     "description": "TS标签：JSX",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "jsx"
+    "slug": "jsx-ts-tag-160",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-161",
@@ -1446,7 +1466,8 @@
     "description": "TS标签：React",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "react"
+    "slug": "react-ts-tag-161",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-162",
@@ -1797,7 +1818,8 @@
     "description": "TS标签：typescript",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "typescript"
+    "slug": "typescript-ts-tag-200",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-201",
@@ -1824,7 +1846,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-203",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-204",
@@ -1833,7 +1856,8 @@
     "description": "TS标签：error",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "error"
+    "slug": "error-ts-tag-204",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-205",
@@ -1842,7 +1866,8 @@
     "description": "TS标签：strict",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "strict"
+    "slug": "strict-ts-tag-205",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-206",
@@ -1851,7 +1876,8 @@
     "description": "TS标签：error",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "error"
+    "slug": "error-ts-tag-206",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-207",
@@ -1860,7 +1886,8 @@
     "description": "TS标签：narrowing",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "narrowing"
+    "slug": "narrowing-ts-tag-207",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-208",
@@ -1869,7 +1896,8 @@
     "description": "TS标签：error",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "error"
+    "slug": "error-ts-tag-208",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-209",
@@ -1887,7 +1915,8 @@
     "description": "TS标签：error",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "error"
+    "slug": "error-ts-tag-210",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-211",
@@ -1950,7 +1979,8 @@
     "description": "TS标签：signature",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "signature"
+    "slug": "signature-ts-tag-217",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-218",
@@ -1968,7 +1998,8 @@
     "description": "TS标签：signature",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "signature"
+    "slug": "signature-ts-tag-219",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-220",
@@ -1986,7 +2017,8 @@
     "description": "TS标签：signature",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "signature"
+    "slug": "signature-ts-tag-221",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-222",
@@ -1995,7 +2027,8 @@
     "description": "TS标签：generic",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "generic"
+    "slug": "generic-ts-tag-222",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-223",
@@ -2004,7 +2037,8 @@
     "description": "TS标签：constraint",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "constraint"
+    "slug": "constraint-ts-tag-223",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-224",
@@ -2013,7 +2047,8 @@
     "description": "TS标签：mapped",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "mapped"
+    "slug": "mapped-ts-tag-224",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-225",
@@ -2022,7 +2057,8 @@
     "description": "TS标签：key",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "key"
+    "slug": "key-ts-tag-225",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-226",
@@ -2049,7 +2085,8 @@
     "description": "TS标签：literal",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "literal"
+    "slug": "literal-ts-tag-228",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-229",
@@ -2058,7 +2095,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-229",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-230",
@@ -2076,7 +2114,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-231",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-232",
@@ -2094,7 +2133,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-233",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-234",
@@ -2112,7 +2152,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-235",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-236",
@@ -2130,7 +2171,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-237",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-238",
@@ -2166,7 +2208,8 @@
     "description": "TS标签：typing",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "typing"
+    "slug": "typing-ts-tag-241",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-242",
@@ -2211,7 +2254,8 @@
     "description": "TS标签：never",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "never"
+    "slug": "never-ts-tag-246",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-247",
@@ -2238,7 +2282,8 @@
     "description": "TS标签：conditional",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "conditional"
+    "slug": "conditional-ts-tag-249",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-250",
@@ -2247,7 +2292,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-250",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-251",
@@ -2256,7 +2302,8 @@
     "description": "TS标签：union",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "union"
+    "slug": "union-ts-tag-251",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-252",
@@ -2292,7 +2339,8 @@
     "description": "TS标签：empty",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "empty"
+    "slug": "empty-ts-tag-255",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-256",
@@ -2301,7 +2349,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-256",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-257",
@@ -2319,7 +2368,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-258",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-259",
@@ -2337,7 +2387,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-260",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-261",
@@ -2355,7 +2406,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-262",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-263",
@@ -2373,7 +2425,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-264",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-265",
@@ -2391,7 +2444,8 @@
     "description": "TS标签：literal",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "literal"
+    "slug": "literal-ts-tag-266",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-267",
@@ -2409,7 +2463,8 @@
     "description": "TS标签：narrowing",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "narrowing"
+    "slug": "narrowing-ts-tag-268",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-269",
@@ -2445,7 +2500,8 @@
     "description": "TS标签：union",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "union"
+    "slug": "union-ts-tag-272",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-273",
@@ -2463,7 +2519,8 @@
     "description": "TS标签：union",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "union"
+    "slug": "union-ts-tag-274",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-275",
@@ -2544,7 +2601,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-283",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-284",
@@ -2553,7 +2611,8 @@
     "description": "TS标签：assertion",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "assertion"
+    "slug": "assertion-ts-tag-284",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-285",
@@ -2571,7 +2630,8 @@
     "description": "TS标签：assertion",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "assertion"
+    "slug": "assertion-ts-tag-286",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-287",
@@ -2589,7 +2649,8 @@
     "description": "TS标签：assignment",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "assignment"
+    "slug": "assignment-ts-tag-288",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-289",
@@ -2598,7 +2659,8 @@
     "description": "TS标签：assertion",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "assertion"
+    "slug": "assertion-ts-tag-289",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-290",
@@ -2607,7 +2669,8 @@
     "description": "TS标签：const",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "const"
+    "slug": "const-ts-tag-290",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-291",
@@ -2616,7 +2679,8 @@
     "description": "TS标签：assertion",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "assertion"
+    "slug": "assertion-ts-tag-291",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-292",
@@ -2625,7 +2689,8 @@
     "description": "TS标签：satisfies",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "satisfies"
+    "slug": "satisfies-ts-tag-292",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-293",
@@ -2652,7 +2717,8 @@
     "description": "TS标签：type",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "type"
+    "slug": "type-ts-tag-295",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-296",
@@ -2661,7 +2727,8 @@
     "description": "TS标签：guard",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "guard"
+    "slug": "guard-ts-tag-296",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-297",
@@ -2670,7 +2737,8 @@
     "description": "TS标签：assertion",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "assertion"
+    "slug": "assertion-ts-tag-297",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-298",
@@ -2679,7 +2747,8 @@
     "description": "TS标签：function",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "function"
+    "slug": "function-ts-tag-298",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-299",
@@ -2688,7 +2757,8 @@
     "description": "TS标签：class",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "class"
+    "slug": "class-ts-tag-299",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-300",
@@ -2715,7 +2785,8 @@
     "description": "TS标签：decorator",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "decorator"
+    "slug": "decorator-ts-tag-302",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-303",
@@ -2733,7 +2804,8 @@
     "description": "TS标签：decorator",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "decorator"
+    "slug": "decorator-ts-tag-304",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-305",
@@ -2751,7 +2823,8 @@
     "description": "TS标签：decorator",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "decorator"
+    "slug": "decorator-ts-tag-306",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-307",
@@ -2778,7 +2851,8 @@
     "description": "TS标签：metadata",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "metadata"
+    "slug": "metadata-ts-tag-309",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-310",
@@ -2805,7 +2879,8 @@
     "description": "TS标签：symbol",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "symbol"
+    "slug": "symbol-ts-tag-312",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-313",
@@ -2850,7 +2925,8 @@
     "description": "TS标签：Error",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "error"
+    "slug": "error-ts-tag-317",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-318",
@@ -2976,7 +3052,8 @@
     "description": "TS标签：nominal",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "nominal"
+    "slug": "nominal-ts-tag-331",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-332",
@@ -3003,7 +3080,8 @@
     "description": "TS标签：React",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "react"
+    "slug": "react-ts-tag-334",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-335",
@@ -3012,7 +3090,8 @@
     "description": "TS标签：TypeScript",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "typescript"
+    "slug": "typescript-ts-tag-335",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-336",
@@ -3030,7 +3109,8 @@
     "description": "TS标签：TypeScript",
     "count": 0,
     "createdAt": "2026-07-02T00:00:00.000Z",
-    "slug": "typescript"
+    "slug": "typescript-ts-tag-337",
+    "editorialStatus": "draft"
   },
   {
     "id": "ts-tag-338",

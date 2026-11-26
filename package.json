@@ -2,7 +2,7 @@
   "name": "openskill-module-typescript-basic",
   "version": "1.0.0",
   "private": true,
-  "description": "OpenSkill Galaxy reusable static learning module template.",
+  "description": "面向ReactNode和工程化学习者",
   "type": "module",
   "scripts": {
     "dev": "vite",

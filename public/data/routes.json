@@ -7,43 +7,43 @@
     "steps": [
       {
         "order": 1,
-        "title": "TypeScript 基础与工程实践 环境依赖搭建与运行机制",
-        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "title": "类型检查与运行时边界",
+        "description": "研习主题包括类型系统、基础概念、类型擦除、运行时校验。",
         "courseId": "mod-typescript-basic-c-1",
         "lessonId": "mod-typescript-basic-l-1"
       },
       {
         "order": 2,
-        "title": "TypeScript 基础与工程实践 配置文件覆盖与属性解析",
-        "description": "学习课时: 学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
+        "title": "联合类型与控制流收窄",
+        "description": "研习主题包括联合类型、字面量类型、类型收窄、类型守卫。",
         "courseId": "mod-typescript-basic-c-1",
         "lessonId": "mod-typescript-basic-l-2"
       },
       {
         "order": 3,
-        "title": "TypeScript 基础与工程实践 API 接口规范与数据通信",
-        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "title": "接口、别名与交叉类型",
+        "description": "研习主题包括interface、type别名、交叉类型、类型运算。",
         "courseId": "mod-typescript-basic-c-2",
         "lessonId": "mod-typescript-basic-l-3"
       },
       {
         "order": 4,
-        "title": "TypeScript 基础与工程实践 核心控制器与数据校验机制",
-        "description": "学习课时: 掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
+        "title": "泛型推断与键类型",
+        "description": "研习主题包括泛型、类型推断、keyof、类型运算。",
         "courseId": "mod-typescript-basic-c-2",
         "lessonId": "mod-typescript-basic-l-4"
       },
       {
         "order": 5,
-        "title": "TypeScript 基础与工程实践 缓存优化与垃圾回收调优",
-        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "title": "工具类型与只读属性",
+        "description": "研习主题包括工具类型、Partial、readonly、不可变。",
         "courseId": "mod-typescript-basic-c-3",
         "lessonId": "mod-typescript-basic-l-5"
       },
       {
         "order": 6,
-        "title": "TypeScript 基础与工程实践 可观测性日志与分布式链路监控",
-        "description": "学习课时: 配置全局日志收集管道，分析高负载服务下的运行指标波动。",
+        "title": "严格配置与空安全",
+        "description": "研习主题包括tsconfig、严格模式、空安全、strictNullChecks。",
         "courseId": "mod-typescript-basic-c-3",
         "lessonId": "mod-typescript-basic-l-6"
       }
@@ -57,22 +57,22 @@
     "steps": [
       {
         "order": 1,
-        "title": "TypeScript 基础与工程实践 环境依赖搭建与运行机制",
-        "description": "学习课时: 了解平台运行依赖、环境参数配置以及本地运行引导流程。",
+        "title": "类型检查与运行时边界",
+        "description": "研习主题包括类型系统、基础概念、类型擦除、运行时校验。",
         "courseId": "mod-typescript-basic-c-1",
         "lessonId": "mod-typescript-basic-l-1"
       },
       {
         "order": 3,
-        "title": "TypeScript 基础与工程实践 API 接口规范与数据通信",
-        "description": "学习课时: 掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
+        "title": "接口、别名与交叉类型",
+        "description": "研习主题包括interface、type别名、交叉类型、类型运算。",
         "courseId": "mod-typescript-basic-c-2",
         "lessonId": "mod-typescript-basic-l-3"
       },
       {
         "order": 5,
-        "title": "TypeScript 基础与工程实践 缓存优化与垃圾回收调优",
-        "description": "学习课时: 定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
+        "title": "工具类型与只读属性",
+        "description": "研习主题包括工具类型、Partial、readonly、不可变。",
         "courseId": "mod-typescript-basic-c-3",
         "lessonId": "mod-typescript-basic-l-5"
       }

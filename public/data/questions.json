@@ -5,14 +5,31 @@
     "type": "single",
     "stem": "TypeScript 相比 JavaScript 最核心的增强是什么？",
     "options": [
-      { "key": "A", "text": "增加了静态类型系统，在编译期就能发现类型错误" },
-      { "key": "B", "text": "运行速度比 JavaScript 快数倍" },
-      { "key": "C", "text": "可以脱离 JavaScript 运行时独立执行" },
-      { "key": "D", "text": "提供了浏览器 DOM 之外的独立渲染引擎" }
+      {
+        "key": "A",
+        "text": "增加了静态类型系统，在编译期就能发现类型错误"
+      },
+      {
+        "key": "B",
+        "text": "运行速度比 JavaScript 快数倍"
+      },
+      {
+        "key": "C",
+        "text": "可以脱离 JavaScript 运行时独立执行"
+      },
+      {
+        "key": "D",
+        "text": "提供了浏览器 DOM 之外的独立渲染引擎"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "TypeScript 是 JavaScript 的超集，核心价值在于静态类型检查与配套的 IDE 智能提示、重构能力。它编译（擦除类型）后就是普通 JavaScript，运行性能与 JS 相同而非更快；也必须运行在 JS 运行时（浏览器/Node）之上；与渲染引擎无关。",
-    "tags": ["类型系统", "基础概念"],
+    "tags": [
+      "类型系统",
+      "基础概念"
+    ],
     "difficulty": "easy",
     "chapter": "mod-typescript-basic-c-1",
     "knowledge_points": [],
@@ -24,14 +41,31 @@
     "type": "single",
     "stem": "下列哪种写法正确声明了\"由字符串组成的数组\"类型？",
     "options": [
-      { "key": "A", "text": "const names: string[] = ['a', 'b'];" },
-      { "key": "B", "text": "const names: array<string> = ['a', 'b'];" },
-      { "key": "C", "text": "const names: [string] = ['a', 'b'];" },
-      { "key": "D", "text": "const names: {string} = ['a', 'b'];" }
+      {
+        "key": "A",
+        "text": "const names: string[] = ['a', 'b'];"
+      },
+      {
+        "key": "B",
+        "text": "const names: array<string> = ['a', 'b'];"
+      },
+      {
+        "key": "C",
+        "text": "const names: [string] = ['a', 'b'];"
+      },
+      {
+        "key": "D",
+        "text": "const names: {string} = ['a', 'b'];"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "字符串数组写作 string[] 或 Array<string>（泛型形式首字母大写）。B 的小写 array 不是有效类型名；C 的 [string] 是长度为 1 的元组类型，赋两个元素会报错；D 不是合法的类型语法。",
-    "tags": ["数组类型", "基础语法"],
+    "tags": [
+      "数组类型",
+      "基础语法"
+    ],
     "difficulty": "easy",
     "chapter": "mod-typescript-basic-c-2",
     "knowledge_points": [],
@@ -43,14 +77,31 @@
     "type": "single",
     "stem": "TypeScript 中 interface 的主要用途是？",
     "options": [
-      { "key": "A", "text": "描述对象的结构契约（属性名与类型），供类型检查与实现约束使用" },
-      { "key": "B", "text": "在运行时校验接口请求参数是否合法" },
-      { "key": "C", "text": "定义只能有一个实例的单例类" },
-      { "key": "D", "text": "声明 CSS 样式接口" }
+      {
+        "key": "A",
+        "text": "描述对象的结构契约（属性名与类型），供类型检查与实现约束使用"
+      },
+      {
+        "key": "B",
+        "text": "在运行时校验接口请求参数是否合法"
+      },
+      {
+        "key": "C",
+        "text": "定义只能有一个实例的单例类"
+      },
+      {
+        "key": "D",
+        "text": "声明 CSS 样式接口"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "interface 声明对象的形状（shape），可被对象字面量满足、被 class implements、被其他接口 extends，还支持声明合并。类型信息在编译后被完全擦除，因此它不能做运行时校验（那需要 zod 等库）；C、D 均不是 interface 的用途。",
-    "tags": ["interface", "类型系统"],
+    "tags": [
+      "interface",
+      "类型系统"
+    ],
     "difficulty": "easy",
     "chapter": "mod-typescript-basic-c-3",
     "knowledge_points": [],
@@ -62,17 +113,38 @@
     "type": "single",
     "stem": "关于 any 与 unknown 的区别，下列说法正确的是？",
     "options": [
-      { "key": "A", "text": "unknown 是类型安全的顶层类型：使用前必须先收窄类型，而 any 会完全关闭类型检查" },
-      { "key": "B", "text": "any 与 unknown 完全等价，只是写法不同" },
-      { "key": "C", "text": "unknown 类型的值可以直接调用任意方法" },
-      { "key": "D", "text": "any 只能用于函数参数，unknown 只能用于返回值" }
+      {
+        "key": "A",
+        "text": "unknown 是类型安全的顶层类型：使用前必须先收窄类型，而 any 会完全关闭类型检查"
+      },
+      {
+        "key": "B",
+        "text": "any 与 unknown 完全等价，只是写法不同"
+      },
+      {
+        "key": "C",
+        "text": "unknown 类型的值可以直接调用任意方法"
+      },
+      {
+        "key": "D",
+        "text": "any 只能用于函数参数，unknown 只能用于返回值"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "任何值都能赋给 any 和 unknown，但 any 反过来还能赋给任何类型并允许任意操作，等于放弃检查；unknown 则要求先通过 typeof、instanceof、类型守卫等收窄后才能使用，是处理不可信输入（如 JSON.parse 结果）的安全选择。B、C、D 均不正确。",
-    "tags": ["any", "unknown", "类型安全"],
+    "tags": [
+      "any",
+      "unknown",
+      "类型安全"
+    ],
     "difficulty": "medium",
     "chapter": "mod-typescript-basic-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ts-kp-0004",
+      "ts-kp-0005"
+    ],
     "estimated_time": 3
   },
   {
@@ -81,16 +153,33 @@
     "type": "single",
     "stem": "type Status = 'pending' | 'success' | 'failed'; 这种类型被称为什么？",
     "options": [
-      { "key": "A", "text": "字符串字面量联合类型" },
-      { "key": "B", "text": "枚举类型 enum" },
-      { "key": "C", "text": "交叉类型" },
-      { "key": "D", "text": "元组类型" }
+      {
+        "key": "A",
+        "text": "字符串字面量联合类型"
+      },
+      {
+        "key": "B",
+        "text": "枚举类型 enum"
+      },
+      {
+        "key": "C",
+        "text": "交叉类型"
+      },
+      {
+        "key": "D",
+        "text": "元组类型"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "用 | 把多个字符串字面量类型组合起来即字符串字面量联合类型，变量只能取这几个具体值，是 TS 中约束取值集合的惯用手法（比 enum 更轻量，无运行时产物）。enum 是独立的枚举语法；交叉类型用 & 合并多个类型；元组是定长数组类型。",
-    "tags": ["联合类型", "字面量类型"],
+    "tags": [
+      "联合类型",
+      "字面量类型"
+    ],
     "difficulty": "easy",
-    "chapter": "mod-typescript-basic-c-2",
+    "chapter": "mod-typescript-basic-c-1",
     "knowledge_points": [],
     "estimated_time": 2
   },
@@ -100,17 +189,37 @@
     "type": "single",
     "stem": "下列泛型函数的作用是？\n\nfunction firstItem<T>(arr: T[]): T | undefined {\n  return arr[0];\n}",
     "options": [
-      { "key": "A", "text": "对任意元素类型的数组返回首元素，且返回值类型自动与元素类型关联" },
-      { "key": "B", "text": "只能处理 number[] 类型的数组" },
-      { "key": "C", "text": "T 必须在调用时显式传入，否则编译失败" },
-      { "key": "D", "text": "泛型 T 会在运行时检查数组元素的真实类型" }
+      {
+        "key": "A",
+        "text": "对任意元素类型的数组返回首元素，且返回值类型自动与元素类型关联"
+      },
+      {
+        "key": "B",
+        "text": "只能处理 number[] 类型的数组"
+      },
+      {
+        "key": "C",
+        "text": "T 必须在调用时显式传入，否则编译失败"
+      },
+      {
+        "key": "D",
+        "text": "泛型 T 会在运行时检查数组元素的真实类型"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "泛型参数 T 让函数在保持类型关联的前提下适用于任意元素类型：传入 string[] 时返回类型推断为 string | undefined。T 通常由实参自动推断，无需显式指定，C 错误；类型在编译后被擦除，不存在运行时检查，D 错误。",
-    "tags": ["泛型", "类型推断"],
+    "tags": [
+      "泛型",
+      "类型推断"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-typescript-basic-c-3",
-    "knowledge_points": [],
+    "chapter": "mod-typescript-basic-c-2",
+    "knowledge_points": [
+      "ts-kp-0014",
+      "ts-kp-0003"
+    ],
     "estimated_time": 3
   },
   {
@@ -119,17 +228,36 @@
     "type": "single",
     "stem": "tsconfig.json 中开启 \"strict\": true 的作用是？",
     "options": [
-      { "key": "A", "text": "启用 strictNullChecks、noImplicitAny 等一组严格类型检查选项" },
-      { "key": "B", "text": "禁止在项目中使用任何第三方库" },
-      { "key": "C", "text": "把编译目标强制设为最新的 ESNext" },
-      { "key": "D", "text": "让编译器对代码进行压缩混淆" }
+      {
+        "key": "A",
+        "text": "启用 strictNullChecks、noImplicitAny 等一组严格类型检查选项"
+      },
+      {
+        "key": "B",
+        "text": "禁止在项目中使用任何第三方库"
+      },
+      {
+        "key": "C",
+        "text": "把编译目标强制设为最新的 ESNext"
+      },
+      {
+        "key": "D",
+        "text": "让编译器对代码进行压缩混淆"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "strict 是一组严格检查的总开关，包含 strictNullChecks（null/undefined 必须显式处理）、noImplicitAny（禁止隐式 any）、strictFunctionTypes 等，是新项目推荐的基线配置。它不影响依赖使用、编译目标（由 target 决定）或产物压缩（由打包器负责）。",
-    "tags": ["tsconfig", "严格模式"],
+    "tags": [
+      "tsconfig",
+      "严格模式"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-typescript-basic-c-1",
-    "knowledge_points": [],
+    "chapter": "mod-typescript-basic-c-3",
+    "knowledge_points": [
+      "ts-kp-0034"
+    ],
     "estimated_time": 3
   },
   {
@@ -138,14 +266,31 @@
     "type": "single",
     "stem": "interface 与 type 别名的区别，下列说法正确的是？",
     "options": [
-      { "key": "A", "text": "interface 支持同名声明合并，type 不允许重复声明；type 可表达联合、条件等更多类型形式" },
-      { "key": "B", "text": "type 只能描述基本类型，不能描述对象结构" },
-      { "key": "C", "text": "interface 会生成运行时代码，type 不会" },
-      { "key": "D", "text": "两者在任何场景下都可以完全互换，没有任何差异" }
+      {
+        "key": "A",
+        "text": "interface 支持同名声明合并，type 不允许重复声明；type 可表达联合、条件等更多类型形式"
+      },
+      {
+        "key": "B",
+        "text": "type 只能描述基本类型，不能描述对象结构"
+      },
+      {
+        "key": "C",
+        "text": "interface 会生成运行时代码，type 不会"
+      },
+      {
+        "key": "D",
+        "text": "两者在任何场景下都可以完全互换，没有任何差异"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "interface 的声明合并常用于扩展第三方库类型（如给 Window 增加属性）；type 别名能表达联合类型、映射类型、条件类型等 interface 无法直接表达的形式，但不能重复声明。两者都是纯编译期构造、零运行时产物，C 错误；B、D 说法都不成立。",
-    "tags": ["interface", "type别名"],
+    "tags": [
+      "interface",
+      "type别名"
+    ],
     "difficulty": "medium",
     "chapter": "mod-typescript-basic-c-2",
     "knowledge_points": [],
@@ -157,17 +302,36 @@
     "type": "single",
     "stem": "已有 interface User { id: number; name: string; email: string; }，希望得到\"所有字段都变为可选\"的类型用于局部更新，最简洁的写法是？",
     "options": [
-      { "key": "A", "text": "Partial<User>" },
-      { "key": "B", "text": "Required<User>" },
-      { "key": "C", "text": "Readonly<User>" },
-      { "key": "D", "text": "Pick<User, 'id'>" }
+      {
+        "key": "A",
+        "text": "Partial<User>"
+      },
+      {
+        "key": "B",
+        "text": "Required<User>"
+      },
+      {
+        "key": "C",
+        "text": "Readonly<User>"
+      },
+      {
+        "key": "D",
+        "text": "Pick<User, 'id'>"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "Partial<T> 是内置映射类型，把 T 的所有属性加上 ? 变为可选，非常适合 PATCH 局部更新参数。Required 相反（全部变必填）；Readonly 把属性变只读；Pick 只挑选指定键组成新类型，都不满足题意。",
-    "tags": ["工具类型", "Partial"],
+    "tags": [
+      "工具类型",
+      "Partial"
+    ],
     "difficulty": "medium",
     "chapter": "mod-typescript-basic-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ts-kp-0036"
+    ],
     "estimated_time": 2
   },
   {
@@ -176,17 +340,37 @@
     "type": "single",
     "stem": "处理联合类型 string | number 时，下列哪种方式是 TypeScript 认可的类型收窄（narrowing）？",
     "options": [
-      { "key": "A", "text": "if (typeof value === 'string') { value.toUpperCase(); }" },
-      { "key": "B", "text": "value.toUpperCase()，编译器会自动尝试两种类型" },
-      { "key": "C", "text": "(value as any).toUpperCase()，这是官方推荐的收窄方式" },
-      { "key": "D", "text": "先 JSON.stringify 再 parse 回来就变成 string 类型" }
+      {
+        "key": "A",
+        "text": "if (typeof value === 'string') { value.toUpperCase(); }"
+      },
+      {
+        "key": "B",
+        "text": "value.toUpperCase()，编译器会自动尝试两种类型"
+      },
+      {
+        "key": "C",
+        "text": "(value as any).toUpperCase()，这是官方推荐的收窄方式"
+      },
+      {
+        "key": "D",
+        "text": "先 JSON.stringify 再 parse 回来就变成 string 类型"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "typeof 检查是控制流分析认可的类型守卫：if 分支内 value 被收窄为 string，可以安全调用字符串方法。B 会直接编译报错（number 上不存在 toUpperCase）；C 的 as any 是绕过检查而非收窄，丢失类型安全；D 与类型收窄毫无关系。",
-    "tags": ["类型收窄", "类型守卫"],
+    "tags": [
+      "类型收窄",
+      "类型守卫"
+    ],
     "difficulty": "medium",
     "chapter": "mod-typescript-basic-c-1",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ts-kp-0021",
+      "ts-kp-0022"
+    ],
     "estimated_time": 3
   },
   {
@@ -195,14 +379,31 @@
     "type": "single",
     "stem": "枚举 enum Direction { Up, Down, Left, Right } 中，Direction.Left 的默认值是多少？",
     "options": [
-      { "key": "A", "text": "2" },
-      { "key": "B", "text": "3" },
-      { "key": "C", "text": "\"Left\"" },
-      { "key": "D", "text": "undefined" }
+      {
+        "key": "A",
+        "text": "2"
+      },
+      {
+        "key": "B",
+        "text": "3"
+      },
+      {
+        "key": "C",
+        "text": "\"Left\""
+      },
+      {
+        "key": "D",
+        "text": "undefined"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "数字枚举默认从 0 开始依次递增：Up=0、Down=1、Left=2、Right=3。若首成员显式赋值（如 Up = 1）则后续从该值递增；只有字符串枚举（Left = \"LEFT\"）成员值才是字符串。因此答案是 2。",
-    "tags": ["enum", "枚举"],
+    "tags": [
+      "enum",
+      "枚举"
+    ],
     "difficulty": "easy",
     "chapter": "mod-typescript-basic-c-2",
     "knowledge_points": [],
@@ -214,14 +415,32 @@
     "type": "single",
     "stem": "为返回 Promise 的异步函数标注返回类型，正确的写法是？",
     "options": [
-      { "key": "A", "text": "async function fetchUser(): Promise<User> { ... }" },
-      { "key": "B", "text": "async function fetchUser(): User { ... }" },
-      { "key": "C", "text": "async function fetchUser(): await User { ... }" },
-      { "key": "D", "text": "async function fetchUser(): Async<User> { ... }" }
+      {
+        "key": "A",
+        "text": "async function fetchUser(): Promise<User> { ... }"
+      },
+      {
+        "key": "B",
+        "text": "async function fetchUser(): User { ... }"
+      },
+      {
+        "key": "C",
+        "text": "async function fetchUser(): await User { ... }"
+      },
+      {
+        "key": "D",
+        "text": "async function fetchUser(): Async<User> { ... }"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "async 函数必然返回 Promise，因此返回类型必须写成 Promise<T> 形式，函数体内 return 的 User 会被自动包装。B 会编译报错（async 函数返回类型必须是 Promise 兼容类型）；C 语法非法；D 的 Async 不是内置类型（获取解包类型用 Awaited<T>）。",
-    "tags": ["async", "Promise", "类型标注"],
+    "tags": [
+      "async",
+      "Promise",
+      "类型标注"
+    ],
     "difficulty": "medium",
     "chapter": "mod-typescript-basic-c-3",
     "knowledge_points": [],
@@ -233,14 +452,32 @@
     "type": "single",
     "stem": "第三方纯 JS 库没有自带类型定义时，社区通用的补充类型声明的方式是？",
     "options": [
-      { "key": "A", "text": "安装对应的 @types 包，如 npm install -D @types/lodash" },
-      { "key": "B", "text": "把该库源码全部改写成 TypeScript" },
-      { "key": "C", "text": "在 tsconfig.json 中设置 \"ignoreLibs\": true" },
-      { "key": "D", "text": "TS 项目中根本无法使用纯 JS 库" }
+      {
+        "key": "A",
+        "text": "安装对应的 @types 包，如 npm install -D @types/lodash"
+      },
+      {
+        "key": "B",
+        "text": "把该库源码全部改写成 TypeScript"
+      },
+      {
+        "key": "C",
+        "text": "在 tsconfig.json 中设置 \"ignoreLibs\": true"
+      },
+      {
+        "key": "D",
+        "text": "TS 项目中根本无法使用纯 JS 库"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "DefinitelyTyped 社区在 @types 组织下维护了海量库的 .d.ts 声明文件，安装后编译器自动加载获得完整类型提示。无需改写库源码；ignoreLibs 不是有效的 tsconfig 选项；实在没有声明时也可以自写 declare module 或容忍 any，D 说法错误。",
-    "tags": ["类型声明", "@types", "工程实践"],
+    "tags": [
+      "类型声明",
+      "@types",
+      "工程实践"
+    ],
     "difficulty": "medium",
     "chapter": "mod-typescript-basic-c-1",
     "knowledge_points": [],
@@ -252,17 +489,36 @@
     "type": "single",
     "stem": "keyof 运算符的作用是？例如 keyof User（User 含 id、name 两个属性）得到什么类型？",
     "options": [
-      { "key": "A", "text": "得到属性名组成的联合类型 'id' | 'name'" },
-      { "key": "B", "text": "得到属性值组成的联合类型 number | string" },
-      { "key": "C", "text": "得到 User 所有属性值的数组" },
-      { "key": "D", "text": "在运行时返回 Object.keys(user) 的结果" }
+      {
+        "key": "A",
+        "text": "得到属性名组成的联合类型 'id' | 'name'"
+      },
+      {
+        "key": "B",
+        "text": "得到属性值组成的联合类型 number | string"
+      },
+      {
+        "key": "C",
+        "text": "得到 User 所有属性值的数组"
+      },
+      {
+        "key": "D",
+        "text": "在运行时返回 Object.keys(user) 的结果"
+      }
     ],
-    "answer": ["A"],
+    "answer": [
+      "A"
+    ],
     "explanation": "keyof T 产生 T 的键名字面量联合类型，常与泛型约束配合实现类型安全的属性访问：function get<T, K extends keyof T>(obj: T, key: K): T[K]。取属性值类型的写法是索引访问 T[keyof T]（对应 B）；keyof 是纯编译期构造，与运行时的 Object.keys 无关。",
-    "tags": ["keyof", "类型运算"],
+    "tags": [
+      "keyof",
+      "类型运算"
+    ],
     "difficulty": "hard",
     "chapter": "mod-typescript-basic-c-2",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ts-kp-0019"
+    ],
     "estimated_time": 3
   },
   {
@@ -271,17 +527,37 @@
     "type": "multiple",
     "stem": "下列哪些是 TypeScript 内置的工具类型（Utility Types）？（多选）",
     "options": [
-      { "key": "A", "text": "Pick<T, K>" },
-      { "key": "B", "text": "Omit<T, K>" },
-      { "key": "C", "text": "Record<K, V>" },
-      { "key": "D", "text": "Merge<A, B>" }
+      {
+        "key": "A",
+        "text": "Pick<T, K>"
+      },
+      {
+        "key": "B",
+        "text": "Omit<T, K>"
+      },
+      {
+        "key": "C",
+        "text": "Record<K, V>"
+      },
+      {
+        "key": "D",
+        "text": "Merge<A, B>"
+      }
     ],
-    "answer": ["A", "B", "C"],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
     "explanation": "Pick 从类型中挑选指定键，Omit 排除指定键，Record 构造键为 K、值为 V 的对象类型，均为官方内置工具类型。Merge 不是内置类型，合并对象类型一般用交叉类型 A & B 或自定义实现。",
-    "tags": ["工具类型"],
+    "tags": [
+      "工具类型"
+    ],
     "difficulty": "easy",
     "chapter": "mod-typescript-basic-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ts-kp-0036"
+    ],
     "estimated_time": 3
   },
   {
@@ -290,16 +566,34 @@
     "type": "multiple",
     "stem": "开启 strictNullChecks 后，下列哪些操作可以安全地处理 user: User | null？（多选）",
     "options": [
-      { "key": "A", "text": "if (user !== null) { user.name } 先判空再访问" },
-      { "key": "B", "text": "user?.name 使用可选链访问" },
-      { "key": "C", "text": "user!.name 使用非空断言" },
-      { "key": "D", "text": "user.name 直接访问，编译器会自动忽略 null" }
+      {
+        "key": "A",
+        "text": "if (user !== null) { user.name } 先判空再访问"
+      },
+      {
+        "key": "B",
+        "text": "user?.name 使用可选链访问"
+      },
+      {
+        "key": "C",
+        "text": "user!.name 使用非空断言"
+      },
+      {
+        "key": "D",
+        "text": "user.name 直接访问，编译器会自动忽略 null"
+      }
     ],
-    "answer": ["A", "B"],
+    "answer": [
+      "A",
+      "B"
+    ],
     "explanation": "判空守卫与可选链都是类型安全的：前者在分支内把类型收窄为 User，后者在 null 时短路返回 undefined。C 的非空断言只是压制编译器，若运行时真为 null 依然抛错，不属于\"安全\"处理；D 在 strictNullChecks 下直接编译报错。",
-    "tags": ["空安全", "strictNullChecks"],
+    "tags": [
+      "空安全",
+      "strictNullChecks"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-typescript-basic-c-1",
+    "chapter": "mod-typescript-basic-c-3",
     "knowledge_points": [],
     "estimated_time": 3
   },
@@ -309,14 +603,33 @@
     "type": "multiple",
     "stem": "关于类型断言 as，下列说法正确的有？（多选）",
     "options": [
-      { "key": "A", "text": "断言只影响编译期类型判断，不做任何运行时转换" },
-      { "key": "B", "text": "value as unknown as T 可以绕过两个不相关类型间的断言限制，但风险自担" },
-      { "key": "C", "text": "as 会像 Java 强制转换一样在类型不符时抛出运行时异常" },
-      { "key": "D", "text": "过度使用 as 会掩盖真实类型错误，应优先使用类型守卫收窄" }
+      {
+        "key": "A",
+        "text": "断言只影响编译期类型判断，不做任何运行时转换"
+      },
+      {
+        "key": "B",
+        "text": "value as unknown as T 可以绕过两个不相关类型间的断言限制，但风险自担"
+      },
+      {
+        "key": "C",
+        "text": "as 会像 Java 强制转换一样在类型不符时抛出运行时异常"
+      },
+      {
+        "key": "D",
+        "text": "过度使用 as 会掩盖真实类型错误，应优先使用类型守卫收窄"
+      }
     ],
-    "answer": ["A", "B", "D"],
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
     "explanation": "TS 的类型在编译后被擦除，as 纯粹是告诉编译器\"按这个类型对待\"，运行时什么都不做，因此也不可能抛类型异常（C 错误，混淆了 Java 的 cast）。双重断言可绕过\"类型需有重叠\"的限制但极易埋雷；工程上应优先用 typeof/in/自定义守卫做真实收窄。",
-    "tags": ["类型断言", "最佳实践"],
+    "tags": [
+      "类型断言",
+      "最佳实践"
+    ],
     "difficulty": "hard",
     "chapter": "mod-typescript-basic-c-2",
     "knowledge_points": [],
@@ -328,14 +641,33 @@
     "type": "multiple",
     "stem": "下列哪些属于 TypeScript 编译器（tsc）能完成的工作？（多选）",
     "options": [
-      { "key": "A", "text": "对源码做静态类型检查并报告类型错误" },
-      { "key": "B", "text": "把 TS/新版 ES 语法编译为 target 指定的旧版 JavaScript" },
-      { "key": "C", "text": "根据源码生成 .d.ts 类型声明文件" },
-      { "key": "D", "text": "在程序运行期间拦截并修复类型不匹配的值" }
+      {
+        "key": "A",
+        "text": "对源码做静态类型检查并报告类型错误"
+      },
+      {
+        "key": "B",
+        "text": "把 TS/新版 ES 语法编译为 target 指定的旧版 JavaScript"
+      },
+      {
+        "key": "C",
+        "text": "根据源码生成 .d.ts 类型声明文件"
+      },
+      {
+        "key": "D",
+        "text": "在程序运行期间拦截并修复类型不匹配的值"
+      }
     ],
-    "answer": ["A", "B", "C"],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
     "explanation": "tsc 的三大职责：类型检查、语法降级编译（由 target/lib 控制）、生成声明文件（declaration: true）。类型系统在运行时不存在（类型擦除），tsc 不可能在运行期拦截或修复任何值，D 是对 TS 工作原理的典型误解。",
-    "tags": ["tsc", "编译原理"],
+    "tags": [
+      "tsc",
+      "编译原理"
+    ],
     "difficulty": "medium",
     "chapter": "mod-typescript-basic-c-3",
     "knowledge_points": [],
@@ -347,9 +679,14 @@
     "type": "judge",
     "stem": "所有合法的 JavaScript 代码同时也是合法的 TypeScript 代码（TS 是 JS 的超集）。",
     "options": [],
-    "answer": ["T"],
+    "answer": [
+      "T"
+    ],
     "explanation": "正确。TypeScript 在语法层面是 JavaScript 的超集，.js 文件改名 .ts 即可参与编译（可能出现类型\"检查错误\"，但那是类型层面的诊断，语法本身合法）。这一设计让存量 JS 项目可以渐进式迁移到 TS。",
-    "tags": ["基础概念", "超集"],
+    "tags": [
+      "基础概念",
+      "超集"
+    ],
     "difficulty": "easy",
     "chapter": "mod-typescript-basic-c-1",
     "knowledge_points": [],
@@ -361,11 +698,16 @@
     "type": "judge",
     "stem": "TypeScript 的类型注解会保留到运行时，可以用它在生产环境中校验用户输入。",
     "options": [],
-    "answer": ["F"],
+    "answer": [
+      "F"
+    ],
     "explanation": "错误。编译产物中类型注解被完全擦除（type erasure），运行时不存在任何 TS 类型信息，因此不能靠类型注解校验网络请求、表单等运行时输入。运行时校验需要 zod、io-ts、class-validator 等库，或手写校验逻辑，再让静态类型与校验规则保持一致。",
-    "tags": ["类型擦除", "运行时校验"],
+    "tags": [
+      "类型擦除",
+      "运行时校验"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-typescript-basic-c-2",
+    "chapter": "mod-typescript-basic-c-1",
     "knowledge_points": [],
     "estimated_time": 2
   },
@@ -375,12 +717,18 @@
     "type": "judge",
     "stem": "未显式标注类型时，TypeScript 会根据初始值自动推断变量类型，例如 let n = 10 会被推断为 number。",
     "options": [],
-    "answer": ["T"],
+    "answer": [
+      "T"
+    ],
     "explanation": "正确。类型推断是 TS 的核心能力：初始化表达式、函数返回值、数组字面量等都会被自动推断，无需处处手写注解。注意 const s = 'a' 会被推断为字面量类型 'a'，而 let s = 'a' 推断为拓宽后的 string，这一\"字面量拓宽\"行为是常见考点。",
-    "tags": ["类型推断"],
+    "tags": [
+      "类型推断"
+    ],
     "difficulty": "easy",
     "chapter": "mod-typescript-basic-c-3",
-    "knowledge_points": [],
+    "knowledge_points": [
+      "ts-kp-0003"
+    ],
     "estimated_time": 2
   },
   {
@@ -389,11 +737,16 @@
     "type": "judge",
     "stem": "interface Point { readonly x: number } 中的 readonly 修饰符能防止对象创建后通过该类型修改 x 属性。",
     "options": [],
-    "answer": ["T"],
+    "answer": [
+      "T"
+    ],
     "explanation": "正确。readonly 使属性在该类型视角下只能在初始化时赋值，之后的赋值语句（p.x = 1）会编译报错。但它是编译期约束：通过断言绕过或别的可写类型引用同一对象仍可能改值，深层不可变需 Readonly<T> 递归封装或 Object.freeze 运行时冻结配合。",
-    "tags": ["readonly", "不可变"],
+    "tags": [
+      "readonly",
+      "不可变"
+    ],
     "difficulty": "medium",
-    "chapter": "mod-typescript-basic-c-1",
+    "chapter": "mod-typescript-basic-c-3",
     "knowledge_points": [],
     "estimated_time": 2
   },
@@ -403,9 +756,14 @@
     "type": "short",
     "stem": "把 TypeScript 源码编译为 JavaScript 的官方命令行工具叫什么？（写出命令名）",
     "options": [],
-    "answer": ["tsc"],
+    "answer": [
+      "tsc"
+    ],
     "explanation": "tsc（TypeScript Compiler）是官方编译器命令：tsc app.ts 编译单文件，项目中通常配合 tsconfig.json 直接运行 tsc 或 tsc --noEmit（仅做类型检查，交由 Vite/esbuild 等负责产物构建）。",
-    "tags": ["tsc", "工具链"],
+    "tags": [
+      "tsc",
+      "工具链"
+    ],
     "difficulty": "easy",
     "chapter": "mod-typescript-basic-c-2",
     "knowledge_points": [],
@@ -417,11 +775,16 @@
     "type": "short",
     "stem": "TS 中用 & 把多个类型合并为同时满足所有成员的新类型（如 type C = A & B），这种类型称为什么类型？",
     "options": [],
-    "answer": ["交叉类型|Intersection Type|intersection|交叉"],
+    "answer": [
+      "交叉类型|Intersection Type|intersection|交叉"
+    ],
     "explanation": "& 构造交叉类型（Intersection Type），要求值同时满足所有成员类型，常用于合并对象结构（如 Props & { children: ReactNode }）。与之相对的 | 是联合类型（值满足其一即可）。注意两个含冲突基本类型属性的交叉会得到 never。",
-    "tags": ["交叉类型", "类型运算"],
+    "tags": [
+      "交叉类型",
+      "类型运算"
+    ],
     "difficulty": "hard",
-    "chapter": "mod-typescript-basic-c-3",
+    "chapter": "mod-typescript-basic-c-2",
     "knowledge_points": [],
     "estimated_time": 2
   }

@@ -3,66 +3,101 @@
     "id": "mod-typescript-basic-l-1",
     "courseId": "mod-typescript-basic-c-1",
     "order": 1,
-    "title": "TypeScript 基础与工程实践 环境依赖搭建与运行机制",
+    "title": "类型检查与运行时边界",
     "slug": "lesson-1-1",
-    "summary": "了解平台运行依赖、环境参数配置以及本地运行引导流程。",
-    "contentMarkdown": "# TypeScript 基础与工程实践 环境依赖搭建与运行机制\n          \n## 1. 概述与背景\n在进行 `TypeScript 基础与工程实践` 的开发实践中，`TypeScript 基础与工程实践 环境依赖搭建与运行机制` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// TypeScript 基础与工程实践 生产实践示例\nconsole.log(\"Initializing TypeScript 基础与工程实践 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
+    "summary": "研习主题包括类型系统、基础概念、类型擦除、运行时校验。",
+    "contentMarkdown": "## 例题1 · 基础概念\n\nTypeScript 相比 JavaScript 最核心的增强是什么？\n\n- A. 增加了静态类型系统，在编译期就能发现类型错误\n- B. 运行速度比 JavaScript 快数倍\n- C. 可以脱离 JavaScript 运行时独立执行\n- D. 提供了浏览器 DOM 之外的独立渲染引擎\n\n**参考答案**　A\n\nTypeScript 是 JavaScript 的超集，核心价值在于静态类型检查与配套的 IDE 智能提示、重构能力。它编译（擦除类型）后就是普通 JavaScript，运行性能与 JS 相同而非更快；也必须运行在 JS 运行时（浏览器/Node）之上；与渲染引擎无关。\n\n## 例题2 · 运行时校验\n\nTypeScript 的类型注解会保留到运行时，可以用它在生产环境中校验用户输入。\n\n**参考答案**　错误\n\n错误。编译产物中类型注解被完全擦除（type erasure），运行时不存在任何 TS 类型信息，因此不能靠类型注解校验网络请求、表单等运行时输入。运行时校验需要 zod、io-ts、class-validator 等库，或手写校验逻辑，再让静态类型与校验规则保持一致。",
     "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "estimatedMinutes": 8,
+    "practiceQuestionIds": [
+      "mod-typescript-basic-q-1",
+      "mod-typescript-basic-q-20"
+    ]
   },
   {
     "id": "mod-typescript-basic-l-2",
     "courseId": "mod-typescript-basic-c-1",
     "order": 2,
-    "title": "TypeScript 基础与工程实践 配置文件覆盖与属性解析",
+    "title": "联合类型与控制流收窄",
     "slug": "lesson-1-2",
-    "summary": "学习多环境配置管理，利用环境变量覆盖规则进行定制开发。",
-    "contentMarkdown": "# TypeScript 基础与工程实践 配置文件覆盖与属性解析\n          \n## 1. 概述与背景\n在进行 `TypeScript 基础与工程实践` 的开发实践中，`TypeScript 基础与工程实践 配置文件覆盖与属性解析` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// TypeScript 基础与工程实践 生产实践示例\nconsole.log(\"Initializing TypeScript 基础与工程实践 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "研习主题包括联合类型、字面量类型、类型收窄、类型守卫。",
+    "contentMarkdown": "## 例题1 · 字面量类型\n\ntype Status = 'pending' | 'success' | 'failed'; 这种类型被称为什么？\n\n- A. 字符串字面量联合类型\n- B. 枚举类型 enum\n- C. 交叉类型\n- D. 元组类型\n\n**参考答案**　A\n\n用 | 把多个字符串字面量类型组合起来即字符串字面量联合类型，变量只能取这几个具体值，是 TS 中约束取值集合的惯用手法（比 enum 更轻量，无运行时产物）。enum 是独立的枚举语法；交叉类型用 & 合并多个类型；元组是定长数组类型。\n\n## 例题2 · 类型守卫\n\n处理联合类型 string | number 时，下列哪种方式是 TypeScript 认可的类型收窄（narrowing）？\n\n- A. if (typeof value === 'string') { value.toUpperCase(); }\n- B. value.toUpperCase()，编译器会自动尝试两种类型\n- C. (value as any).toUpperCase()，这是官方推荐的收窄方式\n- D. 先 JSON.stringify 再 parse 回来就变成 string 类型\n\n**参考答案**　A\n\ntypeof 检查是控制流分析认可的类型守卫：if 分支内 value 被收窄为 string，可以安全调用字符串方法。B 会直接编译报错（number 上不存在 toUpperCase）；C 的 as any 是绕过检查而非收窄，丢失类型安全；D 与类型收窄毫无关系。",
+    "knowledgePoints": [
+      "ts-kp-0021",
+      "ts-kp-0022"
+    ],
+    "estimatedMinutes": 10,
+    "practiceQuestionIds": [
+      "mod-typescript-basic-q-5",
+      "mod-typescript-basic-q-10"
+    ]
   },
   {
     "id": "mod-typescript-basic-l-3",
     "courseId": "mod-typescript-basic-c-2",
     "order": 1,
-    "title": "TypeScript 基础与工程实践 API 接口规范与数据通信",
+    "title": "接口、别名与交叉类型",
     "slug": "lesson-2-1",
-    "summary": "掌握高性能交互接口设计，实现模块间高效、轻量的数据传输。",
-    "contentMarkdown": "# TypeScript 基础与工程实践 API 接口规范与数据通信\n          \n## 1. 概述与背景\n在进行 `TypeScript 基础与工程实践` 的开发实践中，`TypeScript 基础与工程实践 API 接口规范与数据通信` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// TypeScript 基础与工程实践 生产实践示例\nconsole.log(\"Initializing TypeScript 基础与工程实践 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
+    "summary": "研习主题包括interface、type别名、交叉类型、类型运算。",
+    "contentMarkdown": "## 例题1 · type别名\n\ninterface 与 type 别名的区别，下列说法正确的是？\n\n- A. interface 支持同名声明合并，type 不允许重复声明；type 可表达联合、条件等更多类型形式\n- B. type 只能描述基本类型，不能描述对象结构\n- C. interface 会生成运行时代码，type 不会\n- D. 两者在任何场景下都可以完全互换，没有任何差异\n\n**参考答案**　A\n\ninterface 的声明合并常用于扩展第三方库类型（如给 Window 增加属性）；type 别名能表达联合类型、映射类型、条件类型等 interface 无法直接表达的形式，但不能重复声明。两者都是纯编译期构造、零运行时产物，C 错误；B、D 说法都不成立。\n\n## 例题2 · 类型运算\n\nTS 中用 & 把多个类型合并为同时满足所有成员的新类型（如 type C = A & B），这种类型称为什么类型？\n\n**参考答案**　交叉类型|Intersection Type|intersection|交叉\n\n& 构造交叉类型（Intersection Type），要求值同时满足所有成员类型，常用于合并对象结构（如 Props & { children: ReactNode }）。与之相对的 | 是联合类型（值满足其一即可）。注意两个含冲突基本类型属性的交叉会得到 never。",
     "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "estimatedMinutes": 10,
+    "practiceQuestionIds": [
+      "mod-typescript-basic-q-8",
+      "mod-typescript-basic-q-24"
+    ]
   },
   {
     "id": "mod-typescript-basic-l-4",
     "courseId": "mod-typescript-basic-c-2",
     "order": 2,
-    "title": "TypeScript 基础与工程实践 核心控制器与数据校验机制",
+    "title": "泛型推断与键类型",
     "slug": "lesson-2-2",
-    "summary": "掌握核心控制器的异常处理、拦截器配置与入参格式合法性检查。",
-    "contentMarkdown": "# TypeScript 基础与工程实践 核心控制器与数据校验机制\n          \n## 1. 概述与背景\n在进行 `TypeScript 基础与工程实践` 的开发实践中，`TypeScript 基础与工程实践 核心控制器与数据校验机制` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// TypeScript 基础与工程实践 生产实践示例\nconsole.log(\"Initializing TypeScript 基础与工程实践 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "研习主题包括泛型、类型推断、keyof、类型运算。",
+    "contentMarkdown": "## 例题1 · 类型推断\n\n下列泛型函数的作用是？\n\nfunction firstItem<T>(arr: T[]): T | undefined {\n  return arr[0];\n}\n\n- A. 对任意元素类型的数组返回首元素，且返回值类型自动与元素类型关联\n- B. 只能处理 number[] 类型的数组\n- C. T 必须在调用时显式传入，否则编译失败\n- D. 泛型 T 会在运行时检查数组元素的真实类型\n\n**参考答案**　A\n\n泛型参数 T 让函数在保持类型关联的前提下适用于任意元素类型：传入 string[] 时返回类型推断为 string | undefined。T 通常由实参自动推断，无需显式指定，C 错误；类型在编译后被擦除，不存在运行时检查，D 错误。\n\n## 例题2 · 类型运算\n\nkeyof 运算符的作用是？例如 keyof User（User 含 id、name 两个属性）得到什么类型？\n\n- A. 得到属性名组成的联合类型 'id' | 'name'\n- B. 得到属性值组成的联合类型 number | string\n- C. 得到 User 所有属性值的数组\n- D. 在运行时返回 Object.keys(user) 的结果\n\n**参考答案**　A\n\nkeyof T 产生 T 的键名字面量联合类型，常与泛型约束配合实现类型安全的属性访问：function get<T, K extends keyof T>(obj: T, key: K): T[K]。取属性值类型的写法是索引访问 T[keyof T]（对应 B）；keyof 是纯编译期构造，与运行时的 Object.keys 无关。",
+    "knowledgePoints": [
+      "ts-kp-0014",
+      "ts-kp-0003",
+      "ts-kp-0019"
+    ],
+    "estimatedMinutes": 12,
+    "practiceQuestionIds": [
+      "mod-typescript-basic-q-6",
+      "mod-typescript-basic-q-14"
+    ]
   },
   {
     "id": "mod-typescript-basic-l-5",
     "courseId": "mod-typescript-basic-c-3",
     "order": 1,
-    "title": "TypeScript 基础与工程实践 缓存优化与垃圾回收调优",
+    "title": "工具类型与只读属性",
     "slug": "lesson-3-1",
-    "summary": "定位运行时的内存与缓存瓶颈，学习垃圾回收算法调优实践。",
-    "contentMarkdown": "# TypeScript 基础与工程实践 缓存优化与垃圾回收调优\n          \n## 1. 概述与背景\n在进行 `TypeScript 基础与工程实践` 的开发实践中，`TypeScript 基础与工程实践 缓存优化与垃圾回收调优` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// TypeScript 基础与工程实践 生产实践示例\nconsole.log(\"Initializing TypeScript 基础与工程实践 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "研习主题包括工具类型、Partial、readonly、不可变。",
+    "contentMarkdown": "## 例题1 · Partial\n\n已有 interface User { id: number; name: string; email: string; }，希望得到\"所有字段都变为可选\"的类型用于局部更新，最简洁的写法是？\n\n- A. Partial<User>\n- B. Required<User>\n- C. Readonly<User>\n- D. Pick<User, 'id'>\n\n**参考答案**　A\n\nPartial<T> 是内置映射类型，把 T 的所有属性加上 ? 变为可选，非常适合 PATCH 局部更新参数。Required 相反（全部变必填）；Readonly 把属性变只读；Pick 只挑选指定键组成新类型，都不满足题意。\n\n## 例题2 · 不可变\n\ninterface Point { readonly x: number } 中的 readonly 修饰符能防止对象创建后通过该类型修改 x 属性。\n\n**参考答案**　正确\n\n正确。readonly 使属性在该类型视角下只能在初始化时赋值，之后的赋值语句（p.x = 1）会编译报错。但它是编译期约束：通过断言绕过或别的可写类型引用同一对象仍可能改值，深层不可变需 Readonly<T> 递归封装或 Object.freeze 运行时冻结配合。",
+    "knowledgePoints": [
+      "ts-kp-0036"
+    ],
+    "estimatedMinutes": 8,
+    "practiceQuestionIds": [
+      "mod-typescript-basic-q-9",
+      "mod-typescript-basic-q-22"
+    ]
   },
   {
     "id": "mod-typescript-basic-l-6",
     "courseId": "mod-typescript-basic-c-3",
     "order": 2,
-    "title": "TypeScript 基础与工程实践 可观测性日志与分布式链路监控",
+    "title": "严格配置与空安全",
     "slug": "lesson-3-2",
-    "summary": "配置全局日志收集管道，分析高负载服务下的运行指标波动。",
-    "contentMarkdown": "# TypeScript 基础与工程实践 可观测性日志与分布式链路监控\n          \n## 1. 概述与背景\n在进行 `TypeScript 基础与工程实践` 的开发实践中，`TypeScript 基础与工程实践 可观测性日志与分布式链路监控` 扮演着非常关键的底层支柱角色。本章节将重点解构其核心运行逻辑。\n\n> [!NOTE]\n> 实践本章前，请确保您的本地运行时版本满足模块要求的最新 LTS 标准。\n\n## 2. 核心原理与拓扑图\n其运作逻辑可以用以下三个层级来描述：\n1. **输入解析层**：捕获客户端请求参数，进行类型预校验。\n2. **处理调度层**：基于核心哈希分配算法定位工作节点，防范并发冲突。\n3. **输出回调层**：完成结果状态原子提交，清空缓存生命周期。\n\n## 3. 代码演练与实战演示\n以下是用于处理该模块逻辑的核心配置或执行程序：\n\n```javascript\n// TypeScript 基础与工程实践 生产实践示例\nconsole.log(\"Initializing TypeScript 基础与工程实践 engine...\");\nconst stats = runDiagnosis();\nconsole.log(`Diagnosis completed: ${JSON.stringify(stats)}\\n`);\n```\n\n## 4. 最佳实践避坑指南\n- 务必避免在高并发主循环中进行同步 IO 操作，容易导致 CPU 级死锁。\n- 始终为临时运行缓存设置合理的最大生命周期过期限制（TTL），防止内存泄露。\n",
-    "knowledgePoints": [],
-    "estimatedMinutes": 20
+    "summary": "研习主题包括tsconfig、严格模式、空安全、strictNullChecks。",
+    "contentMarkdown": "## 例题1 · 严格模式\n\ntsconfig.json 中开启 \"strict\": true 的作用是？\n\n- A. 启用 strictNullChecks、noImplicitAny 等一组严格类型检查选项\n- B. 禁止在项目中使用任何第三方库\n- C. 把编译目标强制设为最新的 ESNext\n- D. 让编译器对代码进行压缩混淆\n\n**参考答案**　A\n\nstrict 是一组严格检查的总开关，包含 strictNullChecks（null/undefined 必须显式处理）、noImplicitAny（禁止隐式 any）、strictFunctionTypes 等，是新项目推荐的基线配置。它不影响依赖使用、编译目标（由 target 决定）或产物压缩（由打包器负责）。\n\n## 例题2 · strictNullChecks\n\n开启 strictNullChecks 后，下列哪些操作可以安全地处理 user: User | null？（多选）\n\n- A. if (user !== null) { user.name } 先判空再访问\n- B. user?.name 使用可选链访问\n- C. user!.name 使用非空断言\n- D. user.name 直接访问，编译器会自动忽略 null\n\n**参考答案**　A、B\n\n判空守卫与可选链都是类型安全的：前者在分支内把类型收窄为 User，后者在 null 时短路返回 undefined。C 的非空断言只是压制编译器，若运行时真为 null 依然抛错，不属于\"安全\"处理；D 在 strictNullChecks 下直接编译报错。",
+    "knowledgePoints": [
+      "ts-kp-0034"
+    ],
+    "estimatedMinutes": 12,
+    "practiceQuestionIds": [
+      "mod-typescript-basic-q-7",
+      "mod-typescript-basic-q-16"
+    ]
   }
 ]
